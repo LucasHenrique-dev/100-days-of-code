@@ -1,8 +1,8 @@
 # 🔥 #100DaysOfCode Challenge
 
 ## ℹ️ Conteúdos
-- (Log - visualizar progresso do Round 1)[log.md]
-- [#100DaysOfCode Challenge official site)[https://www.100daysofcode.com]
+- [Log - visualizar progresso do Round 1](rounds/round1/log.md)
+- [#100DaysOfCode Challenge official site](https://www.100daysofcode.com)
 - [Proposta](#-proposta)
 - [Regras](#-regras)
 - [Inspiração](#-inspiração)
@@ -16,7 +16,7 @@ Este projeto surgui da necessidade/interesse em criar um ritmo de desenvolviment
 *mais abaixo está descrito as minhas regras específicas para o desafio
 
 <a href="https://www.100daysofcode.com">
-  <img src="images/100daysofcode.jpg" alt="imagem oficial do site 100DaysOfCode">
+  <img src="images/100daysofcode_readme.jpg" alt="imagem oficial do site 100DaysOfCode">
 </a>
 
 > Visualização do site oficial do desafio #100DaysOfCode Challenge.
