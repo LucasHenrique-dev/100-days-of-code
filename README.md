@@ -5,7 +5,7 @@
 - [#100DaysOfCode Challenge official site)[https://www.100daysofcode.com]
 - [Proposta](#-proposta)
 - [Regras](#-regras)
-- [Inspiração](#-inspiracao)
+- [Inspiração](#-inspiração)
 - [Desafio Original](https://github.com/Kallaway/100-days-of-code)
 
 ## 🎯 Proposta
@@ -48,4 +48,4 @@ Projeto inspirado no trabalho de [Alex Kallaway](https://github.com/kallaway)
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
 
-[⬆ Voltar ao topo](#-100-days-of-code-challenge)
+[⬆ Voltar ao topo](#-100daysofcode-challenge)
