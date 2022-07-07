@@ -30,7 +30,7 @@ Este projeto surgui da necessidade/interesse em criar um ritmo de desenvolviment
     - [x] Resolução de algum desafio/problema em platformas de exercícios de programação (ex.: [Codewars](https://www.codewars.com/dashboard), [URI](https://www.beecrowd.com.br/judge/en/login?origem=1), [HackerRank](https://www.hackerrank.com) etc.)
     - [x] Criação de um app/aplicação web
     - [x] Implementação de funcionalidades (acrescentar novas *features* em projetos já existentes)
-    - [x] Criar/continuar algum projeto -> é **PRECISO** que dê para ser postado no github de modo público (pode ser um projeto do próprio github)
+    - [x] Criar/continuar projetos -> é **PRECISO** que dê para ser postado no github de modo público (pode ser um projeto do próprio github)
 1. O que foi desenvolvido na universidade/trabalho não contará como progresso para o desafio (atividades de caráter obrigatório)
 1. Conceitos estudados/usados na faculdade/trabalho são válidos para utilização em projetos livres (atividades de caráter não obrigatório)
 1. O progrsso será medido pelo Github, então é necessário o *push* do código desenvolvido
@@ -39,7 +39,7 @@ Este projeto surgui da necessidade/interesse em criar um ritmo de desenvolviment
 1. É permitido a falha de 1 dia, contanto que seja adicionado mais 1 dia no total de dias do desafio
 1. Ao atingir 2 dias de falhas consecutivas, você perde o desafio e deverá começar um novo *round do zero
 
-*round é entendido como "tentativas" de se finalizar o desafio e a cada vez que se deseja iniciar um novo, a contagem começara do dia 1
+*round é entendido como "tentativas" de se finalizar o desafio e a cada vez que se deseja iniciar um novo, a contagem recomeçara do dia 1
 
 ## 💡 Inspiração
 Projeto inspirado no trabalho de [Alex Kallaway](https://github.com/kallaway)
