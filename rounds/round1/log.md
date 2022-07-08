@@ -1,27 +1,25 @@
 # 100 Days Of Code - Log
 
-## Dia 1: Mês dia, ano
+## Dia 1: 07 de Junho, 2022
 
-### Progresso: Fixed CSS, worked on canvas functionality for the app.
+**Progresso:** Roda da Sorte, HTML e CSS.
 
-### Impressões: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Experiência:** Já fazia um tempo que não escrevia em HTML e CSS, também tive a vontade de continuar com o projeto "APP IDEAS" e justamente por isso aproveitei este primeiro dia para relembrar estas tecnologias e construir uma aplicação web. Resolvi construir minha própria versão de uma roleta da sorte ou roda da sorte e foi muito satisfatório ver a estrutura inicial funcionando. Apesar dos vários problemas enfrentados e de uma boa quantidade de horas investidas, foi prazeroso e pude aprender novas técnicas como o `conic-gradient` do CSS.
 
-### Link(s) para o trabalho:
+**Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
 
+## Dia 2: Dia Mês, Ano
 
-## Dia 2: Mês dia, ano
+**Progresso:** Roda da Sorte, HTML e CSS.
 
-### Progresso: Fixed CSS, worked on canvas functionality for the app.
+**Experiência:** Já fazia um tempo que não escrevia em HTML e CSS, também tive a vontade de continuar com o projeto "APP IDEAS" e justamente por isso aproveitei este primeiro dia para relembrar estas tecnologias e construir uma aplicação web. Resolvi construir minha própria versão de uma roleta da sorte ou roda da sorte e foi muito satisfatório ver a estrutura inicial funcionando. Apesar dos vários problemas enfrentados e de uma boa quantidade de horas investidas, foi prazeroso e pude aprender novas técnicas como o `conic-gradient` do CSS.
 
-### Impressões: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
 
-### Link(s) para o trabalho:
+## Dia 3: Dia Mês, Ano
 
+**Progresso:** Roda da Sorte, HTML e CSS.
 
-## Dia 3: Mês dia, ano
+**Experiência:** Já fazia um tempo que não escrevia em HTML e CSS, também tive a vontade de continuar com o projeto "APP IDEAS" e justamente por isso aproveitei este primeiro dia para relembrar estas tecnologias e construir uma aplicação web. Resolvi construir minha própria versão de uma roleta da sorte ou roda da sorte e foi muito satisfatório ver a estrutura inicial funcionando. Apesar dos vários problemas enfrentados e de uma boa quantidade de horas investidas, foi prazeroso e pude aprender novas técnicas como o `conic-gradient` do CSS.
 
-### Progresso: Fixed CSS, worked on canvas functionality for the app.
-
-### Impressões: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-### Link(s) para o trabalho:
+**Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
