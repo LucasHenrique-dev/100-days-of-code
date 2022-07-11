@@ -23,3 +23,27 @@
 **Experiência:** Enfrentei bastante dificuldade em calcular a posição certa das sessões da roleta e foi ainda mais difícil acerttar a cenralização dos nomes de cada sessão. Dessa forma, optei por mudar minha estratégia e trabalhar com a tag `<svg>`. Até o momento está se mostrando uma opção bem melhor no quesito entendimento e facilidade de uso.
 
 **Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
+
+## Dia 4: 10 de Julho, 2022
+
+**Progresso:** Roda da Sorte, HTML + CSS + Js.
+
+**Experiência:** Ajustei as cores e o texto da roda da sorte usando o SVG, deu trabalho, porém estou pegando o jeito. A maior parte da lógica já foi implementada e agora resta trabalhar no mecanismo de giro.
+
+**Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
+
+## Dia 3: 09 de Julho, 2022
+
+**Progresso:** Roda da Sorte, HTML + CSS + Js.
+
+**Experiência:** Enfrentei bastante dificuldade em calcular a posição certa das sessões da roleta e foi ainda mais difícil acerttar a cenralização dos nomes de cada sessão. Dessa forma, optei por mudar minha estratégia e trabalhar com a tag `<svg>`. Até o momento está se mostrando uma opção bem melhor no quesito entendimento e facilidade de uso.
+
+**Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
+
+## Dia 3: 09 de Julho, 2022
+
+**Progresso:** Roda da Sorte, HTML + CSS + Js.
+
+**Experiência:** Enfrentei bastante dificuldade em calcular a posição certa das sessões da roleta e foi ainda mais difícil acerttar a cenralização dos nomes de cada sessão. Dessa forma, optei por mudar minha estratégia e trabalhar com a tag `<svg>`. Até o momento está se mostrando uma opção bem melhor no quesito entendimento e facilidade de uso.
+
+**Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
