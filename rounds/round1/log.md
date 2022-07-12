@@ -40,10 +40,12 @@
 
 **Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
 
-## Dia 3: 09 de Julho, 2022
+## Dia 6: 12 de Julho, 2022
 
-**Progresso:** Roda da Sorte, HTML + CSS + Js.
+**Progresso:** Desafio CodeWars, Java.
 
-**Experiência:** Enfrentei bastante dificuldade em calcular a posição certa das sessões da roleta e foi ainda mais difícil acerttar a cenralização dos nomes de cada sessão. Dessa forma, optei por mudar minha estratégia e trabalhar com a tag `<svg>`. Até o momento está se mostrando uma opção bem melhor no quesito entendimento e facilidade de uso.
+**Experiência:** Resolvi o Kata (problema de programação) "Consecutive strings" do site CodeWars usando a linguagem Python. Foi um bom exercício que me ajudou a relembrar o uso da `StringBuilder`, classe para manipulação dinâmica de dados de Strings.
 
-**Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
+**Link(s) para o trabalho:**
+  - [Consecutive strings - CodeWars Kata](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/java)
+  - [Consecutive strings - Minha solução](https://gist.github.com/LucasHenrique-dev/40258a4964668e337bc241702cc3e934)
