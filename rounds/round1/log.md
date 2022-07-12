@@ -32,11 +32,11 @@
 
 **Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
 
-## Dia 3: 09 de Julho, 2022
+## Dia 5: 11 de Julho, 2022
 
 **Progresso:** Roda da Sorte, HTML + CSS + Js.
 
-**Experiência:** Enfrentei bastante dificuldade em calcular a posição certa das sessões da roleta e foi ainda mais difícil acerttar a cenralização dos nomes de cada sessão. Dessa forma, optei por mudar minha estratégia e trabalhar com a tag `<svg>`. Até o momento está se mostrando uma opção bem melhor no quesito entendimento e facilidade de uso.
+**Experiência:** Reduzi os códigos desnecessários da aplicação e criei o botão central da roleta, realizando os ajustes necessários no alinhamento do texto. O estilo da roleta foi levemente alterado e ela já se encontra girando, faltando ainda o sistema de sorteio.
 
 **Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
 
