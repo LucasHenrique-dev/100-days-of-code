@@ -44,8 +44,18 @@
 
 **Progresso:** Desafio CodeWars, Java.
 
-**Experiência:** Resolvi o Kata (problema de programação) "Consecutive strings" do site CodeWars usando a linguagem Python. Foi um bom exercício que me ajudou a relembrar o uso da `StringBuilder`, classe para manipulação dinâmica de dados de Strings.
+**Experiência:** Resolvi o Kata (problema de programação) "Consecutive strings" do site CodeWars usando a linguagem Java. Foi um bom exercício que me ajudou a relembrar o uso da `StringBuilder`, classe para manipulação dinâmica de dados de Strings.
 
 **Link(s) para o trabalho:**
   - [Consecutive strings - CodeWars Kata](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/java)
   - [Consecutive strings - Minha solução](https://gist.github.com/LucasHenrique-dev/40258a4964668e337bc241702cc3e934)
+
+## Dia 7: 13 de Julho, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Square(n) Sum" do site CodeWars usando a linguagem Java. Apesar de simples, foi uma oprotunidade de revisar como se usa `Map` para se trabalhar com Arrays de maneira mais simplificada e funcional.
+
+**Link(s) para o trabalho:**
+  - [Square(n) Sum - CodeWars Kata](https://www.codewars.com/kata/515e271a311df0350d00000f/java)
+  - [Square(n) Sum - Minha solução](https://gist.github.com/LucasHenrique-dev/0022d79285b27a586b9986924eba0ec5)
