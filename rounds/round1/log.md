@@ -59,3 +59,13 @@
 **Link(s) para o trabalho:**
   - [Square(n) Sum - CodeWars Kata](https://www.codewars.com/kata/515e271a311df0350d00000f/java)
   - [Square(n) Sum - Minha solução](https://gist.github.com/LucasHenrique-dev/0022d79285b27a586b9986924eba0ec5)
+
+## Dia 8: 14 de Julho, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Descending Order" do site CodeWars usando a linguagem Java. Dessa vez fiz um exercício de ordenação inversa, utilizei novamente o `Map` e o novo (para mim) `IntStream.range()` o qual me possibilitou ter acesso ao index da iteração no Array. É um exercício relativamente simples, utilizando-se as ferramentas certas é possível resolver em poucos comandos, porém fiquei satisfeito com o conhecimento obtido.
+
+**Link(s) para o trabalho:**
+  - [Descending Order - CodeWars Kata](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/java)
+  - [Descending Order - Minha solução](https://gist.github.com/LucasHenrique-dev/4b11c8ad240effab8d9eee5495ebb3ca)
