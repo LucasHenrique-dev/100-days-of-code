@@ -44,28 +44,38 @@
 
 **Progresso:** Desafio CodeWars, Java.
 
-**Experiência:** Resolvi o Kata (problema de programação) "Consecutive strings" do site CodeWars usando a linguagem Java. Foi um bom exercício que me ajudou a relembrar o uso da `StringBuilder`, classe para manipulação dinâmica de dados de Strings.
+**Experiência:** Resolvi o Kata (problema de programação) "Consecutive strings" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Foi um bom exercício que me ajudou a relembrar o uso da `StringBuilder`, classe para manipulação dinâmica de dados de Strings.
 
 **Link(s) para o trabalho:**
-  - [Consecutive strings - CodeWars Kata](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/java)
+  - [Consecutive strings - CodeWars Kata](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/java)
   - [Consecutive strings - Minha solução](https://gist.github.com/LucasHenrique-dev/40258a4964668e337bc241702cc3e934)
 
 ## Dia 7: 13 de Julho, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
-**Experiência:** Resolvi o Kata (problema de programação) "Square(n) Sum" do site CodeWars usando a linguagem Java. Apesar de simples, foi uma oprotunidade de revisar como se usa `Map` para se trabalhar com Arrays de maneira mais simplificada e funcional.
+**Experiência:** Resolvi o Kata (problema de programação) "Square(n) Sum" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Apesar de simples, foi uma oprotunidade de revisar como se usa `Map` para se trabalhar com Arrays de maneira mais simplificada e funcional.
 
 **Link(s) para o trabalho:**
-  - [Square(n) Sum - CodeWars Kata](https://www.codewars.com/kata/515e271a311df0350d00000f/java)
+  - [Square(n) Sum - CodeWars Kata](https://www.codewars.com/kata/515e271a311df0350d00000f/train/java)
   - [Square(n) Sum - Minha solução](https://gist.github.com/LucasHenrique-dev/0022d79285b27a586b9986924eba0ec5)
 
 ## Dia 8: 14 de Julho, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
-**Experiência:** Resolvi o Kata (problema de programação) "Descending Order" do site CodeWars usando a linguagem Java. Dessa vez fiz um exercício de ordenação inversa, utilizei novamente o `Map` e o novo (para mim) `IntStream.range()` o qual me possibilitou ter acesso ao index da iteração no Array. É um exercício relativamente simples, utilizando-se as ferramentas certas é possível resolver em poucos comandos, porém fiquei satisfeito com o conhecimento obtido.
+**Experiência:** Resolvi o Kata (problema de programação) "Descending Order" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Dessa vez fiz um exercício de ordenação inversa, utilizei novamente o `Map` e o novo (para mim) `IntStream.range()` o qual me possibilitou ter acesso ao index da iteração no Array. É um exercício relativamente simples, utilizando-se as ferramentas certas é possível resolver em poucos comandos, porém fiquei satisfeito com o conhecimento obtido.
 
 **Link(s) para o trabalho:**
-  - [Descending Order - CodeWars Kata](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/java)
+  - [Descending Order - CodeWars Kata](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/java)
   - [Descending Order - Minha solução](https://gist.github.com/LucasHenrique-dev/4b11c8ad240effab8d9eee5495ebb3ca)
+
+## Dia 9: 15 de Julho, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Duplicate Encoder" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Para resolver este problema usei bastantes métodos e estruturas que já sou acostumado, porém aproveitei para usar pela primeira vez o `toCharArray()` o qual transforma Strings em arrays de chars. Dessa forma consegui usar o for-each numa String dada pela questão.
+
+**Link(s) para o trabalho:**
+  - [Duplicate Encoder - CodeWars Kata](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java)
+  - [Duplicate Encoder - Minha solução](https://gist.github.com/LucasHenrique-dev/cacad82ce1b627558ce0dee12ebc6b0d)
