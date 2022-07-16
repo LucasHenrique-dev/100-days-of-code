@@ -79,3 +79,11 @@
 **Link(s) para o trabalho:**
   - [Duplicate Encoder - CodeWars Kata](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java)
   - [Duplicate Encoder - Minha solução](https://gist.github.com/LucasHenrique-dev/cacad82ce1b627558ce0dee12ebc6b0d)
+
+## Dia 10: 16 Julho, 2022
+
+**Progresso:** Roda da Sorte, HTML + CSS + Js.
+
+**Experiência:** Voltei a trabalhar no projeto da roleta, realizei algumas alterações no código para implementar a funcionalidade do sorteio, mas ainda falta aprimorar.
+
+**Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
