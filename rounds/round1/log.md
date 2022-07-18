@@ -87,3 +87,11 @@
 **Experiência:** Voltei a trabalhar no projeto da roleta, realizei algumas alterações no código para implementar a funcionalidade do sorteio, mas ainda falta aprimorar.
 
 **Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
+
+## Dia 11: 17 Julho, 2022
+
+**Progresso:** Roda da Sorte, HTML + CSS + Js.
+
+**Experiência:** Implementei a funcionalidade de sortear um nome na roleta e para isso implementei meu próprio método de `BinarySearch`. Houveram alterações nas CSS também. Agora falta uns retoques finais na aplicação (estilo e verificação de bugs).
+
+**Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
