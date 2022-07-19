@@ -95,3 +95,11 @@
 **Experiência:** Implementei a funcionalidade de sortear um nome na roleta e para isso implementei meu próprio método de `BinarySearch`. Houveram alterações nas CSS também. Agora falta uns retoques finais na aplicação (estilo e verificação de bugs).
 
 **Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
+
+## Dia 12: 18 Julho, 2022
+
+**Progresso:** Imersão Java da Alura, Java.
+
+**Experiência:** Hoje começou a Imersão Java da Alura e estou participando. Adoro participar das imersões e consumir os conteúdos da plataforma pelo jeito especial que eles tem de ensinar e sempre manter a empolgação em aprender. Hoje voltei a usar a IDE Intelij, onde programo Java, e me surpreendi bastante com o estado atual do Java, pois está muito mais moderna e com diversas novas funcionalidades. Em especial as que mais me chamaram a atenção foi a possibilidade de usar `var` (aprendi com a Alura) e poder usar o método `equalsIgnoreCase()` (aprendi com o Intelij otimizando o meu código) que é basicamente uma junção de `str.toLowerCase().equalsTo()`.
+
+**Link(s) para o trabalho:** [Imersão Java](https://github.com/LucasHenrique-dev/imersao-java)
