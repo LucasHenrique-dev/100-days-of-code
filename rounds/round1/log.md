@@ -111,3 +111,11 @@
 **Experiência:** Finalizei o segundo dia da Imersão Java da Alura. Para este dia criei stickers com base em pôsters de filmes famosos e em especial resolvi um dos desafios propostos para o dia: salvar os stickers em um diretório que pode ou não já existir.
 
 **Link(s) para o trabalho:** [Imersão Java](https://github.com/LucasHenrique-dev/imersao-java)
+
+## Dia 14: 20 Julho, 2022
+
+**Progresso:** Imersão Java da Alura, Java.
+
+**Experiência:** Criei uma branch para a aula 3 da imersão onde usei os códigos utilizados na aula e pretendo ir fazendo os ajustes gradualmente na minha main. Como aprendizado de hoje gostei muito da abordagem de ensino sobre Interfaces. O uso prático do conceito aconteceu de uma maneira muito natural e isso com certeza me abriu os olhos para ver o assunto de uma nova forma, agora começo a notar melhor suas possibilidades de uso e, para mim, esta foi a melhor lição aprendida hoje.
+
+**Link(s) para o trabalho:** [Imersão Java](https://github.com/LucasHenrique-dev/imersao-java/tree/aula3)
