@@ -119,3 +119,11 @@
 **Experiência:** Criei uma branch para a aula 3 da imersão onde usei os códigos utilizados na aula e pretendo ir fazendo os ajustes gradualmente na minha main. Como aprendizado de hoje gostei muito da abordagem de ensino sobre Interfaces. O uso prático do conceito aconteceu de uma maneira muito natural e isso com certeza me abriu os olhos para ver o assunto de uma nova forma, agora começo a notar melhor suas possibilidades de uso e, para mim, esta foi a melhor lição aprendida hoje.
 
 **Link(s) para o trabalho:** [Imersão Java](https://github.com/LucasHenrique-dev/imersao-java/tree/aula3)
+
+## Dia 15: 21 Julho, 2022
+
+**Progresso:** Imersão Java da Alura, Java.
+
+**Experiência:** Criei uma branch para a aula 4 da imersão onde usei os códigos utilizados na aula e pretendo ir fazendo os ajustes gradualmente na minha main. Hoje foi visto muito conteúdo sobre tecnologias mais usadas no mercado como Spring, MongoDB, Postman. São ferramentas bastante poderosas que facilitam muito a implementação de projetos e que com certeza valem um estudo mais dedicado.
+
+**Link(s) para o trabalho:** [Imersão Java](https://github.com/LucasHenrique-dev/imersao-java/tree/aula4)
