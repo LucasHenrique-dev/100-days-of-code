@@ -127,3 +127,11 @@
 **Experiência:** Criei uma branch para a aula 4 da imersão onde usei os códigos utilizados na aula e pretendo ir fazendo os ajustes gradualmente na minha main. Hoje foi visto muito conteúdo sobre tecnologias mais usadas no mercado como Spring, MongoDB, Postman. São ferramentas bastante poderosas que facilitam muito a implementação de projetos e que com certeza valem um estudo mais dedicado.
 
 **Link(s) para o trabalho:** [Imersão Java](https://github.com/LucasHenrique-dev/imersao-java/tree/aula4)
+
+## Dia 16: 22 Julho, 2022
+
+**Progresso:** Imersão Java da Alura, Java.
+
+**Experiência:** Permaneci trabalhando na mesma branch (aula4) e fui atualizando com os conteúdos da aula 5. O objetivo era fazer o deploy na plataforma Heroku, porém encontrei contratempos como o não reconhecimento de arquivos e buildpacks necessários para o deploy. Por hoje fica registrado a tentativa, o conceito por trás da tentativa de uso foi captado e falta agora praticar mais para dominar o assunto.
+
+**Link(s) para o trabalho:** [Imersão Java](https://github.com/LucasHenrique-dev/imersao-java/tree/aula4)
