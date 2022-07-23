@@ -135,3 +135,14 @@
 **Experiência:** Permaneci trabalhando na mesma branch (aula4) e fui atualizando com os conteúdos da aula 5. O objetivo era fazer o deploy na plataforma Heroku, porém encontrei contratempos como o não reconhecimento de arquivos e buildpacks necessários para o deploy. Por hoje fica registrado a tentativa, o conceito por trás da tentativa de uso foi captado e falta agora praticar mais para dominar o assunto.
 
 **Link(s) para o trabalho:** [Imersão Java](https://github.com/LucasHenrique-dev/imersao-java/tree/aula4)
+
+## Dia 17: 23 Julho, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Find the odd int" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Para resolver este problema usei uma combinação simples de `Arrays.sort()` e um contador para descobrir o número presente uma quantidade ímpar de vezes no Array. Contudo, ao ver a resolução dos outros usuários para este desafio me surpreendi bastante com uma possibilidade envolvendo o operador XOR. É um truque bastante sagaz que depois de entendido seu modo de operar torna a resolução do problema muito menos verbosa e de certa forma simples.
+
+**Link(s) para o trabalho:** 
+  - [Find the odd int - CodeWars Kata](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/java)
+  - [Find the odd int - Minha solução](https://gist.github.com/LucasHenrique-dev/b24a8b14b16f15d042913c9ebd40659d)
+  - [Truque com Operador XOR - Inglês](https://florian.github.io/xor-trick/)
