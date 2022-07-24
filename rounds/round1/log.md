@@ -146,3 +146,13 @@
   - [Find the odd int - CodeWars Kata](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/java)
   - [Find the odd int - Minha solução](https://gist.github.com/LucasHenrique-dev/b24a8b14b16f15d042913c9ebd40659d)
   - [Truque com Operador XOR - Inglês](https://florian.github.io/xor-trick/)
+
+## Dia 18: 24 Julho, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Find the missing letter" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Usei o truque do XOR, que aprendi ontem, para resolver esta questão 😄. Já tinha resolvido esta questão antes usando Java, então os 2 métodos estarão disponíveis nos links abaixo.
+
+**Link(s) para o trabalho:** 
+  - [Find the missing letter - CodeWars Kata](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/java)
+  - [Find the missing letter - Minha solução](https://gist.github.com/LucasHenrique-dev/64031687ee2f1d3b7ee304384052f4ee)
