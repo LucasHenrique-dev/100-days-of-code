@@ -156,3 +156,13 @@
 **Link(s) para o trabalho:** 
   - [Find the missing letter - CodeWars Kata](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/java)
   - [Find the missing letter - Minha solução](https://gist.github.com/LucasHenrique-dev/64031687ee2f1d3b7ee304384052f4ee)
+
+## Dia 19: 25 Julho, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Will you make it?" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. É um problema bem básico, envolvendo uma comparação simples, então hoje foi bem ligth 😌.
+
+**Link(s) para o trabalho:** 
+  - [Will you make it? - CodeWars Kata](https://www.codewars.com/kata/5861d28f124b35723e00005e/train/java)
+  - [Will you make it? - Minha solução](https://gist.github.com/LucasHenrique-dev/588991d4e8fb9ef5dfca290a03ae2e08)
