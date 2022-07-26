@@ -174,5 +174,5 @@
 **Experiência:** Resolvi o Kata (problema de programação) "Two to One" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Neste problema usei os métodos `toCharArray()` e `Arrays.sort()` das classes String e Arrays, respectivamente. Meu relato de hoje é que estou gostando cada vez mais de usar estes métodos 🙂.
 
 **Link(s) para o trabalho:** 
-  - [Two to One - CodeWars Kata](https://www.codewars.com/kata/5861d28f124b35723e00005e/train/java)
+  - [Two to One - CodeWars Kata](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/java)
   - [Two to One - Minha solução](https://gist.github.com/LucasHenrique-dev/2863ae04de9cba768be9c0be53ba7438)
