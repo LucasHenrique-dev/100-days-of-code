@@ -166,3 +166,13 @@
 **Link(s) para o trabalho:** 
   - [Will you make it? - CodeWars Kata](https://www.codewars.com/kata/5861d28f124b35723e00005e/train/java)
   - [Will you make it? - Minha solução](https://gist.github.com/LucasHenrique-dev/588991d4e8fb9ef5dfca290a03ae2e08)
+
+## Dia 20: 26 Julho, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Two to One" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Neste problema usei os métodos `toCharArray()` e `Arrays.sort()` das classes String e Arrays, respectivamente. Meu relato de hoje é que estou gostando cada vez mais de usar estes métodos 🙂.
+
+**Link(s) para o trabalho:** 
+  - [Two to One - CodeWars Kata](https://www.codewars.com/kata/5861d28f124b35723e00005e/train/java)
+  - [Two to One - Minha solução](https://gist.github.com/LucasHenrique-dev/2863ae04de9cba768be9c0be53ba7438)
