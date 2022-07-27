@@ -176,3 +176,13 @@
 **Link(s) para o trabalho:** 
   - [Two to One - CodeWars Kata](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/java)
   - [Two to One - Minha solução](https://gist.github.com/LucasHenrique-dev/2863ae04de9cba768be9c0be53ba7438)
+
+## Dia 21: 27 Julho, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Remove First and Last Character" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Este é outro dia que se pode chamar de ligth, pois resolvi um exercício bem direto no qual precisava remover a primeira e última letra de uma dada String e para tal usei o método `substring()`.
+
+**Link(s) para o trabalho:** 
+  - [Remove First and Last Character - CodeWars Kata](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/java)
+  - [Remove First and Last Character - Minha solução](https://gist.github.com/LucasHenrique-dev/7c18285ed7408a06ca5fb632d2d22f4c)
