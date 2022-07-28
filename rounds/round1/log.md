@@ -186,3 +186,13 @@
 **Link(s) para o trabalho:** 
   - [Remove First and Last Character - CodeWars Kata](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/java)
   - [Remove First and Last Character - Minha solução](https://gist.github.com/LucasHenrique-dev/7c18285ed7408a06ca5fb632d2d22f4c)
+
+## Dia 22: 28 Julho, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Beginner - Reduce but Grow" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Para resolver este problema usei o método `reduce()` da classe Stream. Já conhecia o método, porém só havia utilizado antes em Javascript. Aos poucos vou pegando familiaridade com a classe Stream e seus métodos.
+
+**Link(s) para o trabalho:**
+  - [Beginner - Reduce but Grow - CodeWars Kata](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/java)
+  - [Beginner - Reduce but Grow - Minha solução](https://gist.github.com/LucasHenrique-dev/eaa90b5ff1f0ae3e0c3ec72f31eb348e)
