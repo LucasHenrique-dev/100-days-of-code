@@ -196,3 +196,13 @@
 **Link(s) para o trabalho:**
   - [Beginner - Reduce but Grow - CodeWars Kata](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/java)
   - [Beginner - Reduce but Grow - Minha solução](https://gist.github.com/LucasHenrique-dev/eaa90b5ff1f0ae3e0c3ec72f31eb348e)
+
+## Dia 23: 29 Julho, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Shortest Word" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. No exercício de hoje usei uma combinação de 3 métodos da classe Stream (`map()`, `min()` e `get()`) para tratar um único dado e assim obter a resposta correta.
+
+**Link(s) para o trabalho:**
+  - [Shortest Word - CodeWars Kata](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/java)
+  - [Shortest Word - Minha solução](https://gist.github.com/LucasHenrique-dev/f891ae88bbacad5cfa60d465cc268876)
