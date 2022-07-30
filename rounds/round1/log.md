@@ -206,3 +206,13 @@
 **Link(s) para o trabalho:**
   - [Shortest Word - CodeWars Kata](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/java)
   - [Shortest Word - Minha solução](https://gist.github.com/LucasHenrique-dev/f891ae88bbacad5cfa60d465cc268876)
+
+## Dia 24: 30 Julho, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Roman Numerals Helper" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Hoje foi dia de revanche, pois semana passada havia tentado resolver este mesmo desafio, porém falhei. O objetivo era fazer 2 conversores (número arábico -> número romano, número romano -> número arábico) e para isso usei a classe `LinkedHashMap` da interface `Map`. O motivo pelo qual decidi usar esta classe foi por sua característica de manter a ordem dos elementos adicionados e isso foi a base da minha lógica para resolver o problema. Em resumo, conheci a classe LinkedHashMap, aprendi a usar o método `entrySet()` da Interface `Map.Entry` e fiquei bastante surpreso (e feliz!) ao ver que meu método de resolver seguia a mesma lógica implementada pelos top códigos "clever" e "Best Practices".
+
+**Link(s) para o trabalho:**
+  - [Roman Numerals Helper - CodeWars Kata](https://www.codewars.com/kata/51b66044bce5799a7f000003/train/java)
+  - [Roman Numerals Helper - Minha solução](https://gist.github.com/LucasHenrique-dev/b71731d27ad26fb0777dcd1acf69680f)
