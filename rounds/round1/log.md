@@ -216,3 +216,13 @@
 **Link(s) para o trabalho:**
   - [Roman Numerals Helper - CodeWars Kata](https://www.codewars.com/kata/51b66044bce5799a7f000003/train/java)
   - [Roman Numerals Helper - Minha solução](https://gist.github.com/LucasHenrique-dev/b71731d27ad26fb0777dcd1acf69680f)
+
+## Dia 25: 31 Julho, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Abbreviate a Two Word Name" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Resolvi mais um exercício usando a classe Stream e a novidade de hoje foi o método `collect()` o qual me permite juntar Strings para formar um nova, tal como faz o método `join()`. Na verdade, usando `Collectors.joining()` como parâmetro do collect() é possível trabalhar de forma bastante idêntica ao join() tradicional.
+
+**Link(s) para o trabalho:**
+  - [Abbreviate a Two Word Name - CodeWars Kata](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/java)
+  - [Abbreviate a Two Word Name - Minha solução](https://gist.github.com/LucasHenrique-dev/a96fed9713c585ccb124d75d1855fea2)
