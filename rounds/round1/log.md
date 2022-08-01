@@ -226,3 +226,13 @@
 **Link(s) para o trabalho:**
   - [Abbreviate a Two Word Name - CodeWars Kata](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/java)
   - [Abbreviate a Two Word Name - Minha solução](https://gist.github.com/LucasHenrique-dev/a96fed9713c585ccb124d75d1855fea2)
+
+## Dia 26: 01 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Complementary DNA" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Resolvi um exercício simples envolvnedo substituição de letras em uma String, porém com um contexto bem legal. Usei a classe `Map` e dessa vez usei um método de inicialização de valores rápida: `Map.of()`. Dessa forma, posso passar os valores da estrutura de dados diretamente dentro dos parênteses e esse solução é bem útil pelo fato de que os valores são predeterminados e invariáveis.
+
+**Link(s) para o trabalho:**
+  - [Complementary DNA - CodeWars Kata](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/java)
+  - [Complementary DNA - Minha solução](https://gist.github.com/LucasHenrique-dev/e61bc1e7576de93724d5af67febd604b)
