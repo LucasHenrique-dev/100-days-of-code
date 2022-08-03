@@ -236,3 +236,26 @@
 **Link(s) para o trabalho:**
   - [Complementary DNA - CodeWars Kata](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/java)
   - [Complementary DNA - Minha solução](https://gist.github.com/LucasHenrique-dev/e61bc1e7576de93724d5af67febd604b)
+
+## Dia 27: 02 Agosto, 2022
+
+**Progresso:** 7 Days Of Code, GitHub.
+
+**Experiência:** Resolvi o primeiro dia do desafio 7DaysOfCode da [Alura](https://www.alura.com.br). Nesta versão do desafio vou utilizar conceitos do Git e relata-los em um repositório aqui no GitHub, este primeiro dia foi bem simples e se resumiu apenas na criação de um repositório (tudo na própria plataforma do GitHub).
+
+\*OBS.: Apesar de cumprir o objetivo de desenvolver algo todo dia, acabei esquecendo de relatar aqui o desenvolvimento que tive 😅. Porém, antes tarde do que nunca!
+Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agosto)
+
+**Link(s) para o trabalho:**
+  - [Repositório 7DaysOfCode GitHub](https://github.com/LucasHenrique-dev/Semana-GitHub-Alura)
+  - [Todas as versões do 7DaysOfCode que já fiz](https://github.com/LucasHenrique-dev/7DaysOfCode)
+
+## Dia 28: 03 Agosto, 2022
+
+**Progresso:** 7 Days Of Code, GitHub.
+
+**Experiência:** Resolvi o segundo dia do desafio 7DaysOfCode da [Alura](https://www.alura.com.br). Avançando nos primeiros passos, o objetivo foi fazer `commits` e `uploads` de arquivos no repositório (através da interface do GitHub).
+
+**Link(s) para o trabalho:**
+  - [Repositório 7DaysOfCode GitHub](https://github.com/LucasHenrique-dev/Semana-GitHub-Alura)
+  - [Todas as versões do 7DaysOfCode que já fiz](https://github.com/LucasHenrique-dev/7DaysOfCode)
