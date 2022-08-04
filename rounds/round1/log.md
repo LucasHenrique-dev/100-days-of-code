@@ -259,3 +259,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Repositório 7DaysOfCode GitHub](https://github.com/LucasHenrique-dev/Semana-GitHub-Alura)
   - [Todas as versões do 7DaysOfCode que já fiz](https://github.com/LucasHenrique-dev/7DaysOfCode)
+
+## Dia 29: 04 Agosto, 2022
+
+**Progresso:** 7 Days Of Code, GitHub.
+
+**Experiência:** Resolvi o segundo dia do desafio 7DaysOfCode da [Alura](https://www.alura.com.br). Para concluir o dia 3 tive que clonar o reprositório aqui presente no GitHub para a IDE do Visual Studio Code. Além disso, aprimorei a documentação e deixei o meu progresso de mais fácil visualização.
+
+**Link(s) para o trabalho:**
+  - [Repositório 7DaysOfCode GitHub](https://github.com/LucasHenrique-dev/Semana-GitHub-Alura)
+  - [Todas as versões do 7DaysOfCode que já fiz](https://github.com/LucasHenrique-dev/7DaysOfCode)
