@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+## 📌 Atalhos
+- [Registro dia 10](#dia-10-16-julho-2022)
+- [Registro dia 20](#dia-20-26-julho-2022)
+- [Registro dia 30](#dia-30-05-agosto-2022)
+
 ## Dia 1: 07 de Julho, 2022
 
 **Progresso:** Roda da Sorte, HTML e CSS.
@@ -275,6 +280,16 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Progresso:** 7 Days Of Code, GitHub.
 
 **Experiência:** Resolvi o quarto dia do desafio 7DaysOfCode da [Alura](https://www.alura.com.br). Para concluir o dia 4 tive que realizar alterações no reprositório, pela IDE Visual Studio Code, e posteriormente realizar o commit.
+
+**Link(s) para o trabalho:**
+  - [Repositório 7DaysOfCode GitHub](https://github.com/LucasHenrique-dev/Semana-GitHub-Alura)
+  - [Todas as versões do 7DaysOfCode que já fiz](https://github.com/LucasHenrique-dev/7DaysOfCode)
+
+## Dia 31: 06 Agosto, 2022
+
+**Progresso:** 7 Days Of Code, GitHub.
+
+**Experiência:** Resolvi o quinto dia do desafio 7DaysOfCode da [Alura](https://www.alura.com.br). Para concluir o dia 5 tive que fazer um commit propositalmente errado para revertê-lo depois.
 
 **Link(s) para o trabalho:**
   - [Repositório 7DaysOfCode GitHub](https://github.com/LucasHenrique-dev/Semana-GitHub-Alura)
