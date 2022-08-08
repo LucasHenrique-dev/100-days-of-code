@@ -304,3 +304,14 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Repositório 7DaysOfCode GitHub](https://github.com/LucasHenrique-dev/Semana-GitHub-Alura)
   - [Todas as versões do 7DaysOfCode que já fiz](https://github.com/LucasHenrique-dev/7DaysOfCode)
+
+## Dia 33: 08 Agosto, 2022
+
+**Progresso:** 7 Days Of Code, GitHub.
+
+**Experiência:** Resolvi o sétimo e último dia do desafio 7DaysOfCode da [Alura](https://www.alura.com.br). Para concluir o dia 7 coloquei o site que serviu de base para o desafio no ar, utilizando o `GitHub Pages`.
+
+**Link(s) para o trabalho:**
+  - [Site Desafio 7DaysOfCode GitHub](https://lucashenrique-dev.github.io/Semana-GitHub-Alura/)
+  - [Repositório 7DaysOfCode GitHub](https://github.com/LucasHenrique-dev/Semana-GitHub-Alura)
+  - [Todas as versões do 7DaysOfCode que já fiz](https://github.com/LucasHenrique-dev/7DaysOfCode)
