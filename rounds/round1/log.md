@@ -315,3 +315,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Site Desafio 7DaysOfCode GitHub](https://lucashenrique-dev.github.io/Semana-GitHub-Alura/)
   - [Repositório 7DaysOfCode GitHub](https://github.com/LucasHenrique-dev/Semana-GitHub-Alura)
   - [Todas as versões do 7DaysOfCode que já fiz](https://github.com/LucasHenrique-dev/7DaysOfCode)
+
+## Dia 34: 09 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Sum of the first nth term of Series" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Foi um problema simples, não havia muita complexidade lógica e estrutural, porém me trouxe boas recordações qunado usei conceitos de `casting` de variáveis e `String.format()`. Esses conceitos estiveram muito presentes no início da minha jornada em programação, onde aprendi e mentorei colegas, usando a saudosa linguagem C.
+
+**Link(s) para o trabalho:**
+  - [Sum of the first nth term of Series - CodeWars Kata](https://www.codewars.com/kata/555eded1ad94b00403000071/train/java)
+  - [Sum of the first nth term of Series - Minha solução](https://gist.github.com/LucasHenrique-dev/cf32aceec7c9cd50969941791767739e)
