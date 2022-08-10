@@ -325,3 +325,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Sum of the first nth term of Series - CodeWars Kata](https://www.codewars.com/kata/555eded1ad94b00403000071/train/java)
   - [Sum of the first nth term of Series - Minha solução](https://gist.github.com/LucasHenrique-dev/cf32aceec7c9cd50969941791767739e)
+
+## Dia 35: 10 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Opposite number" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Hoje o dia foi bem corrido, mas para manter a promessa dos 100 dias, realizei este exercício 😁.
+
+**Link(s) para o trabalho:**
+  - [Opposite number - CodeWars Kata](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/java)
+  - [Opposite number - Minha solução](https://gist.github.com/LucasHenrique-dev/580b35065400f6ef646c0d737d569ed8)
