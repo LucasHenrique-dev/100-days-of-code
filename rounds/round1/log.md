@@ -335,3 +335,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Opposite number - CodeWars Kata](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/java)
   - [Opposite number - Minha solução](https://gist.github.com/LucasHenrique-dev/580b35065400f6ef646c0d737d569ed8)
+
+## Dia 36: 11 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "String repeat" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Enquanto estou resolvendo umas pendências, resolvi fazer mais um programa light hoje. Dessa vez usei o `String.repeat()`, função relativamente nova para mim, mas que estou gostando muito de usar.
+
+**Link(s) para o trabalho:**
+  - [String repeat - CodeWars Kata](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/java)
+  - [String repeat - Minha solução](https://gist.github.com/LucasHenrique-dev/bf828f1b0a745d41a0ad4d99cd085eb5)
