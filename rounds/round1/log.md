@@ -345,3 +345,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [String repeat - CodeWars Kata](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/java)
   - [String repeat - Minha solução](https://gist.github.com/LucasHenrique-dev/bf828f1b0a745d41a0ad4d99cd085eb5)
+
+## Dia 37: 12 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Convert a string to an array" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Apenas mais um exercício simples usando, usando o método `split()`.
+
+**Link(s) para o trabalho:**
+  - [Convert a string to an array - CodeWars Kata](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/java)
+  - [Convert a string to an array - Minha solução](https://gist.github.com/LucasHenrique-dev/4f72adacc388d27bbcc4ee8f87df81f5)
