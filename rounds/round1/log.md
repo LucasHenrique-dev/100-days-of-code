@@ -355,3 +355,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Convert a string to an array - CodeWars Kata](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/java)
   - [Convert a string to an array - Minha solução](https://gist.github.com/LucasHenrique-dev/4f72adacc388d27bbcc4ee8f87df81f5)
+
+## Dia 38: 13 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Ones and Zeros" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Havia alguns Katas não finalizados na minha conta e hoje decici resolver um deles. O objetivo desse é fazer a tradução de binário para decimal, usei `Math.pow()` e um for com 2 variáveis.
+
+**Link(s) para o trabalho:**
+  - [Ones and Zeros - CodeWars Kata](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/train/java)
+  - [Ones and Zeros - Minha solução](https://gist.github.com/LucasHenrique-dev/9b5084f8ca9fa45a11508a471a03ca2e)
