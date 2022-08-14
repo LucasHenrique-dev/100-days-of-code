@@ -365,3 +365,11 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Ones and Zeros - CodeWars Kata](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/train/java)
   - [Ones and Zeros - Minha solução](https://gist.github.com/LucasHenrique-dev/9b5084f8ca9fa45a11508a471a03ca2e)
+
+## Dia 39: 14 Agosto, 2022
+
+**Progresso:** Roda da Sorte, HTML + CSS + Js.
+
+**Experiência:** Resolvi alguns bugs do sistema como: nomes não apareciam + tamanho dos nomes que transbordavam a roleta.
+
+**Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
