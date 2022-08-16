@@ -383,3 +383,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Break camelCase - CodeWars Kata](https://www.codewars.com/kata/5208f99aee097e6552000148/train/java)
   - [Break camelCase - Minha solução](https://gist.github.com/LucasHenrique-dev/06b01b4d5619154d2e043cc62802597e)
+
+## Dia 41: 16 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "DNA to RNA Conversion" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Um exercício simples, contendo apenas o uso do método `replace()`.
+
+**Link(s) para o trabalho:**
+  - [DNA to RNA Conversion - CodeWars Kata](https://www.codewars.com/kata/5556282156230d0e5e000089/train/java)
+  - [DNA to RNA Conversion - Minha solução](https://gist.github.com/LucasHenrique-dev/80f7092699e99e7292db360fae478828)
