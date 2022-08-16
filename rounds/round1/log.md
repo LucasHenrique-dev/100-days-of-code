@@ -373,3 +373,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Experiência:** Resolvi alguns bugs do sistema como: nomes não apareciam + tamanho dos nomes que transbordavam a roleta.
 
 **Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
+
+## Dia 40: 15 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Break camelCase" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Neste desafio utilizei o método `toCharArray()` para iterar sobre os caracteres de uma String. Inclusive, este já virou um dos meus métodos descobertos favoritos (certeza de usar em mais ocasiões 🤓📚)
+
+**Link(s) para o trabalho:**
+  - [Break camelCase - CodeWars Kata](https://www.codewars.com/kata/5208f99aee097e6552000148/train/java)
+  - [Break camelCase - Minha solução](https://gist.github.com/LucasHenrique-dev/06b01b4d5619154d2e043cc62802597e)
