@@ -393,3 +393,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [DNA to RNA Conversion - CodeWars Kata](https://www.codewars.com/kata/5556282156230d0e5e000089/train/java)
   - [DNA to RNA Conversion - Minha solução](https://gist.github.com/LucasHenrique-dev/80f7092699e99e7292db360fae478828)
+
+## Dia 42: 17 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Array plus array" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Objetivo simples, porém busquei uma solução usando Streams e dessa vez obtive novos conhecimentos. Descobri a existência da classe `IntStream` e usei o seu método `concat()`.
+
+**Link(s) para o trabalho:**
+  - [Array plus array - CodeWars Kata](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/java)
+  - [Array plus array - Minha solução](https://gist.github.com/LucasHenrique-dev/1059c8a2188e7a85f4b44029c099dd58)
