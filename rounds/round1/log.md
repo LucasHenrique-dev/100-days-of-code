@@ -414,15 +414,6 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Job Matching #1 - CodeWars Kata](https://www.codewars.com/kata/56c22c5ae8b139416c00175d/train/javascript)
   - [Job Matching #1 - Minha solução](https://gist.github.com/LucasHenrique-dev/26023b4c68e51b4b858d6c0bb988b088)
 
-## Dia 43: 18 Agosto, 2022
-
-**Progresso:** Desafio CodeWars, JavaScript.
-
-**Experiência:** Resolvi o Kata (problema de programação) "Job Matching #1" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem JavaScript. Este foi mais um exercíco dos que estavam listados como "não feitos".
-
-**Link(s) para o trabalho:**
-  - [Job Matching #1 - CodeWars Kata](https://www.codewars.com/kata/56c22c5ae8b139416c00175d/train/javascript)
-  - [Job Matching #1 - Minha solução](## Dia 43: 18 Agosto, 2022
 
 ## Dia 44: 19 Agosto, 2022
 
@@ -431,5 +422,5 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Experiência:** Resolvi o Kata (problema de programação) "Switcheroo" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Utilizei a classe StringBuilder + o método toCharArray() para resolver esta questão.
 
 **Link(s) para o trabalho:**
-  - [Job Matching #1 - CodeWars Kata](https://www.codewars.com/kata/57f759bb664021a30300007d/train/java)
-  - [Job Matching #1 - Minha solução](https://gist.github.com/LucasHenrique-dev/26023b4c68e51b4b858d6c0bb988b088)
+  - [Switcheroo - CodeWars Kata](https://www.codewars.com/kata/57f759bb664021a30300007d/train/java)
+  - [Switcheroo - Minha solução](https://gist.github.com/LucasHenrique-dev/26023b4c68e51b4b858d6c0bb988b088)
