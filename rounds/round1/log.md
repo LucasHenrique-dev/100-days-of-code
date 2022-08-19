@@ -423,4 +423,4 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 
 **Link(s) para o trabalho:**
   - [Switcheroo - CodeWars Kata](https://www.codewars.com/kata/57f759bb664021a30300007d/train/java)
-  - [Switcheroo - Minha solução](https://gist.github.com/LucasHenrique-dev/26023b4c68e51b4b858d6c0bb988b088)
+  - [Switcheroo - Minha solução](https://gist.github.com/LucasHenrique-dev/dace33bf2fbe4a834a941491a65ec3fd)
