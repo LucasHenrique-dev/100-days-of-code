@@ -414,7 +414,6 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Job Matching #1 - CodeWars Kata](https://www.codewars.com/kata/56c22c5ae8b139416c00175d/train/javascript)
   - [Job Matching #1 - Minha solução](https://gist.github.com/LucasHenrique-dev/26023b4c68e51b4b858d6c0bb988b088)
 
-
 ## Dia 44: 19 Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
@@ -424,3 +423,11 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Switcheroo - CodeWars Kata](https://www.codewars.com/kata/57f759bb664021a30300007d/train/java)
   - [Switcheroo - Minha solução](https://gist.github.com/LucasHenrique-dev/dace33bf2fbe4a834a941491a65ec3fd)
+
+## Dia 45: 20 Agosto, 2022
+
+**Progresso:** Roda da Sorte, HTML + CSS + Js.
+
+**Experiência:** Cumpri os objetivos que havia traçado para esse sistema, finalmente! Além de ter tido uma boa experiência e aprendizado na jornada para finaliza-lo, pretendo usa-lo com uma certa frequência no meu dia a dia, mesmo que não seja um dos melhores, mas foi feito por mim 😎. Hoje resolvi questões de responsividade que quebravam o sistema em algumas ocasiões, assim como eliminei arquivos obsoletos.
+
+**Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
