@@ -441,3 +441,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Two Sum - CodeWars Kata](https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java)
   - [Two Sum - Minha solução](https://gist.github.com/LucasHenrique-dev/774e21f793ec87e82d02ca0033ebb76b)
+
+## Dia 47: 22 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Take a Ten Minutes Walk" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Resolução de um exercício estilo "verificação de parênteses" no qual usei `HashMap` para resolver, ao invés de contadores 🙃. Tanto o exercício de ontem como o de hoje me lembraram os exercícios de treino para a maratona SBC (participei apenas de 1 edição, mas curti demais!).
+
+**Link(s) para o trabalho:**
+  - [Take a Ten Minutes Walk - CodeWars Kata](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/java)
+  - [Take a Ten Minutes Walk - Minha solução](https://gist.github.com/LucasHenrique-dev/5d7f83822269a75b3ab38e1c09669245)
