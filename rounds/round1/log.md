@@ -431,3 +431,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Experiência:** Cumpri os objetivos que havia traçado para esse sistema, finalmente! Além de ter tido uma boa experiência e aprendizado na jornada para finaliza-lo, pretendo usa-lo com uma certa frequência no meu dia a dia, mesmo que não seja um dos melhores, mas foi feito por mim 😎. Hoje resolvi questões de responsividade que quebravam o sistema em algumas ocasiões, assim como eliminei arquivos obsoletos.
 
 **Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
+
+## Dia 46: 21 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Two Sum" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. No desafio de hoje fui mais criativo e desenvolvi uma solução mais robusta, contendo `HashMap` e `BinarySearch`, apesar de que poderia ser resolvido com um duplo for encadeado 😅. Contei um pouco de *POG* (Programação Orientada à Gambiarra), mas fiquei satisfeito com o resultado.
+
+**Link(s) para o trabalho:**
+  - [Two Sum - CodeWars Kata](https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java)
+  - [Two Sum - Minha solução](https://gist.github.com/LucasHenrique-dev/774e21f793ec87e82d02ca0033ebb76b)
