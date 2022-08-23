@@ -451,3 +451,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Take a Ten Minutes Walk - CodeWars Kata](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/java)
   - [Take a Ten Minutes Walk - Minha solução](https://gist.github.com/LucasHenrique-dev/5d7f83822269a75b3ab38e1c09669245)
+
+## Dia 48: 23 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Build Tower" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Fiz um exercício de "desenhar" triângulos, bem nostálgico (fazia na faculdade, logo na primeira cadeira de programção que tive).
+
+**Link(s) para o trabalho:**
+  - [Build Tower - CodeWars Kata](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/java)
+  - [Build Tower - Minha solução](https://gist.github.com/LucasHenrique-dev/6c22aeaa0f3df9bedc141824687f5e23)
