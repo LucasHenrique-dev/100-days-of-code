@@ -461,3 +461,15 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Build Tower - CodeWars Kata](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/java)
   - [Build Tower - Minha solução](https://gist.github.com/LucasHenrique-dev/6c22aeaa0f3df9bedc141824687f5e23)
+
+## Dia 49: 24 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Maximum subarray sum" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Minha resolução foi na força bruta (brute force), utilizando 3 loopings e tinha como objetivo encontrar um sub array onde a soma de seus números fosse a maior possível. A "chave de ouro" de hoje veio quando eu vi resolução mais bem avaliada deste exercício. Ela utiliza apenas 1 looping for, baseado no algorítmo de Kadane o qual é um algorítmo iterativo de programação dinâmica. Passei a conhecer agora e achei incrível 🤯.
+
+**Link(s) para o trabalho:**
+  - [Maximum subarray sum - CodeWars Kata](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/train/java)
+  - [Maximum subarray sum - Minha solução](https://gist.github.com/LucasHenrique-dev/65d6e13e5032419b94b7e896f35ca923)
+  - [Kadane's Algorithm](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+  - [Algoritmo de Kadane. Subarray Contíguo de Soma Máxima. Questão de Entrevista.](https://www.youtube.com/watch?v=UncRSviH-cY)
