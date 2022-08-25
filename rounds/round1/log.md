@@ -480,6 +480,8 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 
 **Experiência:** Resolvi o Kata (problema de programação) "Opposites Attract" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Completo hoje metade da meta dos 100 dias! 🥳🥳. O exercício em si foi bem simples, porém o que é importante neste desafio dos 100 dias é criar um bom hábito, o que com certeza está acontecendo e, além disso, estou aprendendo/conhecendo muitos métodos de resolução de problemas novos (até mesmo para aqueles problemas mais simples em que eu julgava não ter muitas variações de respostas). Rumo ao 100° dia! 🎯
 
+\* Fica de extra um link para o site [CodingBat](https://codingbat.com/java) o qual me ajudou muito no início da minha jornada em programação
+
 **Link(s) para o trabalho:**
   - [Opposites Attract - CodeWars Kata](https://www.codewars.com/kata/555086d53eac039a2a000083/train/java)
   - [Opposites Attract - Minha solução](https://gist.github.com/LucasHenrique-dev/b7557565505cc88b2b922d41b57798f4)
