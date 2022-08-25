@@ -473,3 +473,14 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Maximum subarray sum - Minha solução](https://gist.github.com/LucasHenrique-dev/65d6e13e5032419b94b7e896f35ca923)
   - [Kadane's Algorithm](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
   - [Algoritmo de Kadane. Subarray Contíguo de Soma Máxima. Questão de Entrevista.](https://www.youtube.com/watch?v=UncRSviH-cY)
+
+## Dia 50: 25 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Opposites Attract" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Completo hoje metade da meta dos 100 dias! 🥳🥳. O exercício em si foi bem simples, porém o que é importante neste desafio dos 100 dias é criar um bom hábito, o que com certeza está acontecendo e, além disso, estou aprendendo/conhecendo muitos métodos de resolução de problemas novos (até mesmo para aqueles problemas mais simples em que eu julgava não ter muitas variações de respostas). Rumo ao 100° dia! 🎯
+
+**Link(s) para o trabalho:**
+  - [Opposites Attract - CodeWars Kata](https://www.codewars.com/kata/555086d53eac039a2a000083/train/java)
+  - [Opposites Attract - Minha solução](https://gist.github.com/LucasHenrique-dev/b7557565505cc88b2b922d41b57798f4)
+  - [CodingBat](https://codingbat.com/java)
