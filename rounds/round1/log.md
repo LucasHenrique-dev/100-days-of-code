@@ -486,3 +486,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Opposites Attract - CodeWars Kata](https://www.codewars.com/kata/555086d53eac039a2a000083/train/java)
   - [Opposites Attract - Minha solução](https://gist.github.com/LucasHenrique-dev/b7557565505cc88b2b922d41b57798f4)
   - [CodingBat](https://codingbat.com/java)
+
+## Dia 51: 26 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Count the smiley faces!" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Resolvi este problema usando `Regex`, assunto este que estou usando mais atualmente. Estou tendo experiências muito boas, antigamente sentia que o assunto era muito mais complicado, porém depois de estudar autômatos em Teoria da Computação estou conseguindo criar minhas expressões com muito mais tranquilidade.
+
+**Link(s) para o trabalho:**
+  - [Count the smiley faces! - CodeWars Kata](https://www.codewars.com/kata/583203e6eb35d7980400002a/train/java)
+  - [Count the smiley faces! - Minha solução](https://gist.github.com/LucasHenrique-dev/63aa3ba8e8228418fbdbe29ae0b1fb53)
