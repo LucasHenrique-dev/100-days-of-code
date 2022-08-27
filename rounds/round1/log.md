@@ -496,3 +496,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Count the smiley faces! - CodeWars Kata](https://www.codewars.com/kata/583203e6eb35d7980400002a/train/java)
   - [Count the smiley faces! - Minha solução](https://gist.github.com/LucasHenrique-dev/63aa3ba8e8228418fbdbe29ae0b1fb53)
+
+## Dia 52: 27 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Reversed sequence" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Apenas a resoluçao de um exercício light, sem nada demais :)
+
+**Link(s) para o trabalho:**
+  - [Reversed sequence - CodeWars Kata](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/java)
+  - [Reversed sequence - Minha solução](https://gist.github.com/LucasHenrique-dev/bffacdcf9e3074e532aaeb8e67c9c38d)
