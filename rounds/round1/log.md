@@ -506,3 +506,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Reversed sequence - CodeWars Kata](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/java)
   - [Reversed sequence - Minha solução](https://gist.github.com/LucasHenrique-dev/bffacdcf9e3074e532aaeb8e67c9c38d)
+
+## Dia 53: 28 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Convert a String to a Number!" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Mais um exercício simples, porque estou na correria.
+
+**Link(s) para o trabalho:**
+  - [Convert a String to a Number! - CodeWars Kata](https://www.codewars.com/kata/544675c6f971f7399a000e79/train/java)
+  - [Convert a String to a Number! - Minha solução](https://gist.github.com/LucasHenrique-dev/84a2b16b690c94810176928d038b95cc)
