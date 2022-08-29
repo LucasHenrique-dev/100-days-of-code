@@ -516,3 +516,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Convert a String to a Number! - CodeWars Kata](https://www.codewars.com/kata/544675c6f971f7399a000e79/train/java)
   - [Convert a String to a Number! - Minha solução](https://gist.github.com/LucasHenrique-dev/84a2b16b690c94810176928d038b95cc)
+
+## Dia 54: 29 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Is this a triangle?" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 1 - epsódio 1 🎥.
+
+**Link(s) para o trabalho:**
+  - [Is this a triangle? - CodeWars Kata](https://www.codewars.com/kata/56606694ec01347ce800001b/train/java)
+  - [Is this a triangle? - Minha solução](https://gist.github.com/LucasHenrique-dev/8638398cc0500a549277edef47564f72)
