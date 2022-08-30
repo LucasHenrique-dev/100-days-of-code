@@ -526,3 +526,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Is this a triangle? - CodeWars Kata](https://www.codewars.com/kata/56606694ec01347ce800001b/train/java)
   - [Is this a triangle? - Minha solução](https://gist.github.com/LucasHenrique-dev/8638398cc0500a549277edef47564f72)
+
+## Dia 55: 30 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Is this a triangle?" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 1 - epsódio 1 🎥.
+
+**Link(s) para o trabalho:**
+  - [Highest Scoring Word - CodeWars Kata](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/java)
+  - [Highest Scoring Word - Minha solução](https://gist.github.com/LucasHenrique-dev/356b40a93866a92de7703b9d47766672)
