@@ -531,7 +531,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 
 **Progresso:** Desafio CodeWars, Java.
 
-**Experiência:** Resolvi o Kata (problema de programação) "Is this a triangle?" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 1 - epsódio 1 🎥.
+**Experiência:** Resolvi o Kata (problema de programação) "Highest Scoring Word" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 1 - epsódio 2 🎥. Tenho a impressão de já ter resolvido um exercício parecido com este enquanto treinava para a [maratona de programação da SBC](http://maratona.sbc.org.br/index.html), por isso, apesar de ter um nível de kata um pouco mais elevado que o do episódio anterior, eu já possuia o conhecimento do "truque" que facilita a resolução da questão.
 
 **Link(s) para o trabalho:**
   - [Highest Scoring Word - CodeWars Kata](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/java)
