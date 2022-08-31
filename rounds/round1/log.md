@@ -536,3 +536,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Highest Scoring Word - CodeWars Kata](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/java)
   - [Highest Scoring Word - Minha solução](https://gist.github.com/LucasHenrique-dev/356b40a93866a92de7703b9d47766672)
+
+## Dia 56: 31 Agosto, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Rock Paper Scissors!" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 1 - epsódio 3 🎥.
+
+**Link(s) para o trabalho:**
+  - [Rock Paper Scissors! - CodeWars Kata](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/java)
+  - [Rock Paper Scissors! - Minha solução](https://gist.github.com/LucasHenrique-dev/98d08da0ae9ef4e73178b15d9edfe88f)
