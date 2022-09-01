@@ -546,3 +546,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Rock Paper Scissors! - CodeWars Kata](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/java)
   - [Rock Paper Scissors! - Minha solução](https://gist.github.com/LucasHenrique-dev/98d08da0ae9ef4e73178b15d9edfe88f)
+
+## Dia 57: 01 Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Area or Perimeter" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 1 - epsódio 4 🎥.
+
+**Link(s) para o trabalho:**
+  - [Area or Perimeter - CodeWars Kata](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/train/java)
+  - [Area or Perimeter - Minha solução](https://gist.github.com/LucasHenrique-dev/be4f43d0866d852ab1f69c0b75a14602)
