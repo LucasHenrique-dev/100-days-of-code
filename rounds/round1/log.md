@@ -556,3 +556,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Area or Perimeter - CodeWars Kata](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/train/java)
   - [Area or Perimeter - Minha solução](https://gist.github.com/LucasHenrique-dev/be4f43d0866d852ab1f69c0b75a14602)
+
+## Dia 58: 02 Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. A ideia por trás desse exercício é bem simples, talvez a implementação nem tanto, contudo estou começando a incorpar novas estratégias e a que usei neste me alegrou bastante. Utilizei um misto de `charToArray()` com a estratégia utulizada para resolver o desafio [Highest Scoring Word](#dia-55-30-agosto-2022), além disso fiquei surpreso em descobrir que minha solução é um primo distante da solução mais bem avaliada para o desafio 😄, o qual usa classes `Stream`
+
+**Link(s) para o trabalho:**
+  - [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!! - CodeWars Kata](https://www.codewars.com/kata/5626b561280a42ecc50000d1/train/java)
+  - [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!! - Minha solução](https://gist.github.com/LucasHenrique-dev/efb5431e637aea268b8e3ff6b7536ae9)
