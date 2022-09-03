@@ -4,6 +4,8 @@
 - [Registro dia 10](#dia-10-16-julho-2022)
 - [Registro dia 20](#dia-20-26-julho-2022)
 - [Registro dia 30](#dia-30-05-agosto-2022)
+- [Registro dia 40](#dia-40-15-agosto-2022)
+- [Registro dia 50](#dia-50-25-agosto-2022)
 
 ## Dia 1: 07 de Julho, 2022
 
@@ -561,7 +563,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 
 **Progresso:** Desafio CodeWars, Java.
 
-**Experiência:** Resolvi o Kata (problema de programação) "Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. A ideia por trás desse exercício é bem simples, talvez a implementação nem tanto, contudo estou começando a incorpar novas estratégias e a que usei neste me alegrou bastante. Utilizei um misto de `charToArray()` com a estratégia utulizada para resolver o desafio [Highest Scoring Word](#dia-55-30-agosto-2022), além disso fiquei surpreso em descobrir que minha solução é um primo distante da solução mais bem avaliada para o desafio 😄, o qual usa classes `Stream`
+**Experiência:** Resolvi o Kata (problema de programação) "Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. A ideia por trás desse exercício é bem simples, talvez a implementação nem tanto, contudo estou começando a incorpar novas estratégias e a que usei neste me alegrou bastante. Utilizei um misto de `charToArray()` com a estratégia utulizada para resolver o desafio [Highest Scoring Word](#dia-55-30-agosto-2022), além disso fiquei surpreso em descobrir que minha solução é um primo distante da solução mais bem avaliada para o desafio 😄, o qual usa classes `Stream`.
 
 **Link(s) para o trabalho:**
   - [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!! - CodeWars Kata](https://www.codewars.com/kata/5626b561280a42ecc50000d1/train/java)
