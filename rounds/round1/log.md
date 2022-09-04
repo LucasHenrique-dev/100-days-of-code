@@ -568,3 +568,11 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!! - CodeWars Kata](https://www.codewars.com/kata/5626b561280a42ecc50000d1/train/java)
   - [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!! - Minha solução](https://gist.github.com/LucasHenrique-dev/efb5431e637aea268b8e3ff6b7536ae9)
+
+## Dia 59: 03 de Setembro, 2022
+
+**Progresso:** Roda da Sorte, HTML e CSS.
+
+**Experiência:** Realizei alguns ajustes no CSS da roda e adicionei algumas opções de sorteio que pretendo usar para fins de estudo pessoais. Também identifiquei mais bugs na aplicação 😢.
+
+**Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
