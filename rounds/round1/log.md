@@ -1,12 +1,12 @@
 # 100 Days Of Code - Log
 
 ## 📌 Atalhos
-- [Registro dia 10](#dia-10-16-julho-2022)
-- [Registro dia 20](#dia-20-26-julho-2022)
-- [Registro dia 30](#dia-30-05-agosto-2022)
-- [Registro dia 40](#dia-40-15-agosto-2022)
-- [Registro dia 50](#dia-50-25-agosto-2022)
-- [Registro dia 60](#dia-60-04-Setembro-2022)
+- [Registro dia 10](#dia-10-16-de-julho-2022)
+- [Registro dia 20](#dia-20-26-de-julho-2022)
+- [Registro dia 30](#dia-30-05-de-agosto-2022)
+- [Registro dia 40](#dia-40-15-de-agosto-2022)
+- [Registro dia 50](#dia-50-25-de-agosto-2022)
+- [Registro dia 60](#dia-60-04-de-setembro-2022)
 
 ## Dia 1: 07 de Julho, 2022
 
@@ -16,7 +16,7 @@
 
 **Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
 
-## Dia 2: 08 Julho, 2022
+## Dia 2: 08 de Julho, 2022
 
 **Progresso:** Roda da Sorte, HTML + CSS + Js.
 
@@ -88,7 +88,7 @@
   - [Duplicate Encoder - CodeWars Kata](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java)
   - [Duplicate Encoder - Minha solução](https://gist.github.com/LucasHenrique-dev/cacad82ce1b627558ce0dee12ebc6b0d)
 
-## Dia 10: 16 Julho, 2022
+## Dia 10: 16 de Julho, 2022
 
 **Progresso:** Roda da Sorte, HTML + CSS + Js.
 
@@ -96,7 +96,7 @@
 
 **Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
 
-## Dia 11: 17 Julho, 2022
+## Dia 11: 17 de Julho, 2022
 
 **Progresso:** Roda da Sorte, HTML + CSS + Js.
 
@@ -104,7 +104,7 @@
 
 **Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
 
-## Dia 12: 18 Julho, 2022
+## Dia 12: 18 de Julho, 2022
 
 **Progresso:** Imersão Java da Alura, Java.
 
@@ -112,7 +112,7 @@
 
 **Link(s) para o trabalho:** [Imersão Java](https://github.com/LucasHenrique-dev/imersao-java)
 
-## Dia 13: 19 Julho, 2022
+## Dia 13: 19 de Julho, 2022
 
 **Progresso:** Imersão Java da Alura, Java.
 
@@ -120,7 +120,7 @@
 
 **Link(s) para o trabalho:** [Imersão Java](https://github.com/LucasHenrique-dev/imersao-java)
 
-## Dia 14: 20 Julho, 2022
+## Dia 14: 20 de Julho, 2022
 
 **Progresso:** Imersão Java da Alura, Java.
 
@@ -128,7 +128,7 @@
 
 **Link(s) para o trabalho:** [Imersão Java](https://github.com/LucasHenrique-dev/imersao-java/tree/aula3)
 
-## Dia 15: 21 Julho, 2022
+## Dia 15: 21 de Julho, 2022
 
 **Progresso:** Imersão Java da Alura, Java.
 
@@ -136,7 +136,7 @@
 
 **Link(s) para o trabalho:** [Imersão Java](https://github.com/LucasHenrique-dev/imersao-java/tree/aula4)
 
-## Dia 16: 22 Julho, 2022
+## Dia 16: 22 de Julho, 2022
 
 **Progresso:** Imersão Java da Alura, Java.
 
@@ -144,7 +144,7 @@
 
 **Link(s) para o trabalho:** [Imersão Java](https://github.com/LucasHenrique-dev/imersao-java/tree/aula4)
 
-## Dia 17: 23 Julho, 2022
+## Dia 17: 23 de Julho, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -155,7 +155,7 @@
   - [Find the odd int - Minha solução](https://gist.github.com/LucasHenrique-dev/b24a8b14b16f15d042913c9ebd40659d)
   - [Truque com Operador XOR - Inglês](https://florian.github.io/xor-trick/)
 
-## Dia 18: 24 Julho, 2022
+## Dia 18: 24 de Julho, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -165,7 +165,7 @@
   - [Find the missing letter - CodeWars Kata](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/java)
   - [Find the missing letter - Minha solução](https://gist.github.com/LucasHenrique-dev/64031687ee2f1d3b7ee304384052f4ee)
 
-## Dia 19: 25 Julho, 2022
+## Dia 19: 25 de Julho, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -175,7 +175,7 @@
   - [Will you make it? - CodeWars Kata](https://www.codewars.com/kata/5861d28f124b35723e00005e/train/java)
   - [Will you make it? - Minha solução](https://gist.github.com/LucasHenrique-dev/588991d4e8fb9ef5dfca290a03ae2e08)
 
-## Dia 20: 26 Julho, 2022
+## Dia 20: 26 de Julho, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -185,7 +185,7 @@
   - [Two to One - CodeWars Kata](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/java)
   - [Two to One - Minha solução](https://gist.github.com/LucasHenrique-dev/2863ae04de9cba768be9c0be53ba7438)
 
-## Dia 21: 27 Julho, 2022
+## Dia 21: 27 de Julho, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -195,7 +195,7 @@
   - [Remove First and Last Character - CodeWars Kata](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/java)
   - [Remove First and Last Character - Minha solução](https://gist.github.com/LucasHenrique-dev/7c18285ed7408a06ca5fb632d2d22f4c)
 
-## Dia 22: 28 Julho, 2022
+## Dia 22: 28 de Julho, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -205,7 +205,7 @@
   - [Beginner - Reduce but Grow - CodeWars Kata](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/java)
   - [Beginner - Reduce but Grow - Minha solução](https://gist.github.com/LucasHenrique-dev/eaa90b5ff1f0ae3e0c3ec72f31eb348e)
 
-## Dia 23: 29 Julho, 2022
+## Dia 23: 29 de Julho, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -215,7 +215,7 @@
   - [Shortest Word - CodeWars Kata](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/java)
   - [Shortest Word - Minha solução](https://gist.github.com/LucasHenrique-dev/f891ae88bbacad5cfa60d465cc268876)
 
-## Dia 24: 30 Julho, 2022
+## Dia 24: 30 de Julho, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -225,7 +225,7 @@
   - [Roman Numerals Helper - CodeWars Kata](https://www.codewars.com/kata/51b66044bce5799a7f000003/train/java)
   - [Roman Numerals Helper - Minha solução](https://gist.github.com/LucasHenrique-dev/b71731d27ad26fb0777dcd1acf69680f)
 
-## Dia 25: 31 Julho, 2022
+## Dia 25: 31 de Julho, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -235,7 +235,7 @@
   - [Abbreviate a Two Word Name - CodeWars Kata](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/java)
   - [Abbreviate a Two Word Name - Minha solução](https://gist.github.com/LucasHenrique-dev/a96fed9713c585ccb124d75d1855fea2)
 
-## Dia 26: 01 Agosto, 2022
+## Dia 26: 01 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -245,7 +245,7 @@
   - [Complementary DNA - CodeWars Kata](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/java)
   - [Complementary DNA - Minha solução](https://gist.github.com/LucasHenrique-dev/e61bc1e7576de93724d5af67febd604b)
 
-## Dia 27: 02 Agosto, 2022
+## Dia 27: 02 de Agosto, 2022
 
 **Progresso:** 7 Days Of Code, GitHub.
 
@@ -258,7 +258,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Repositório 7DaysOfCode GitHub](https://github.com/LucasHenrique-dev/Semana-GitHub-Alura)
   - [Todas as versões do 7DaysOfCode que já fiz](https://github.com/LucasHenrique-dev/7DaysOfCode)
 
-## Dia 28: 03 Agosto, 2022
+## Dia 28: 03 de Agosto, 2022
 
 **Progresso:** 7 Days Of Code, GitHub.
 
@@ -268,7 +268,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Repositório 7DaysOfCode GitHub](https://github.com/LucasHenrique-dev/Semana-GitHub-Alura)
   - [Todas as versões do 7DaysOfCode que já fiz](https://github.com/LucasHenrique-dev/7DaysOfCode)
 
-## Dia 29: 04 Agosto, 2022
+## Dia 29: 04 de Agosto, 2022
 
 **Progresso:** 7 Days Of Code, GitHub.
 
@@ -278,7 +278,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Repositório 7DaysOfCode GitHub](https://github.com/LucasHenrique-dev/Semana-GitHub-Alura)
   - [Todas as versões do 7DaysOfCode que já fiz](https://github.com/LucasHenrique-dev/7DaysOfCode)
 
-## Dia 30: 05 Agosto, 2022
+## Dia 30: 05 de Agosto, 2022
 
 **Progresso:** 7 Days Of Code, GitHub.
 
@@ -288,7 +288,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Repositório 7DaysOfCode GitHub](https://github.com/LucasHenrique-dev/Semana-GitHub-Alura)
   - [Todas as versões do 7DaysOfCode que já fiz](https://github.com/LucasHenrique-dev/7DaysOfCode)
 
-## Dia 31: 06 Agosto, 2022
+## Dia 31: 06 de Agosto, 2022
 
 **Progresso:** 7 Days Of Code, GitHub.
 
@@ -298,7 +298,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Repositório 7DaysOfCode GitHub](https://github.com/LucasHenrique-dev/Semana-GitHub-Alura)
   - [Todas as versões do 7DaysOfCode que já fiz](https://github.com/LucasHenrique-dev/7DaysOfCode)
 
-## Dia 32: 07 Agosto, 2022
+## Dia 32: 07 de Agosto, 2022
 
 **Progresso:** 7 Days Of Code, GitHub.
 
@@ -308,7 +308,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Repositório 7DaysOfCode GitHub](https://github.com/LucasHenrique-dev/Semana-GitHub-Alura)
   - [Todas as versões do 7DaysOfCode que já fiz](https://github.com/LucasHenrique-dev/7DaysOfCode)
 
-## Dia 33: 08 Agosto, 2022
+## Dia 33: 08 de Agosto, 2022
 
 **Progresso:** 7 Days Of Code, GitHub.
 
@@ -319,7 +319,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Repositório 7DaysOfCode GitHub](https://github.com/LucasHenrique-dev/Semana-GitHub-Alura)
   - [Todas as versões do 7DaysOfCode que já fiz](https://github.com/LucasHenrique-dev/7DaysOfCode)
 
-## Dia 34: 09 Agosto, 2022
+## Dia 34: 09 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -329,7 +329,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Sum of the first nth term of Series - CodeWars Kata](https://www.codewars.com/kata/555eded1ad94b00403000071/train/java)
   - [Sum of the first nth term of Series - Minha solução](https://gist.github.com/LucasHenrique-dev/cf32aceec7c9cd50969941791767739e)
 
-## Dia 35: 10 Agosto, 2022
+## Dia 35: 10 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -339,7 +339,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Opposite number - CodeWars Kata](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/java)
   - [Opposite number - Minha solução](https://gist.github.com/LucasHenrique-dev/580b35065400f6ef646c0d737d569ed8)
 
-## Dia 36: 11 Agosto, 2022
+## Dia 36: 11 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -349,7 +349,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [String repeat - CodeWars Kata](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/java)
   - [String repeat - Minha solução](https://gist.github.com/LucasHenrique-dev/bf828f1b0a745d41a0ad4d99cd085eb5)
 
-## Dia 37: 12 Agosto, 2022
+## Dia 37: 12 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -359,7 +359,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Convert a string to an array - CodeWars Kata](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/java)
   - [Convert a string to an array - Minha solução](https://gist.github.com/LucasHenrique-dev/4f72adacc388d27bbcc4ee8f87df81f5)
 
-## Dia 38: 13 Agosto, 2022
+## Dia 38: 13 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -369,7 +369,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Ones and Zeros - CodeWars Kata](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/train/java)
   - [Ones and Zeros - Minha solução](https://gist.github.com/LucasHenrique-dev/9b5084f8ca9fa45a11508a471a03ca2e)
 
-## Dia 39: 14 Agosto, 2022
+## Dia 39: 14 de Agosto, 2022
 
 **Progresso:** Roda da Sorte, HTML + CSS + Js.
 
@@ -377,7 +377,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 
 **Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
 
-## Dia 40: 15 Agosto, 2022
+## Dia 40: 15 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -387,7 +387,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Break camelCase - CodeWars Kata](https://www.codewars.com/kata/5208f99aee097e6552000148/train/java)
   - [Break camelCase - Minha solução](https://gist.github.com/LucasHenrique-dev/06b01b4d5619154d2e043cc62802597e)
 
-## Dia 41: 16 Agosto, 2022
+## Dia 41: 16 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -397,7 +397,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [DNA to RNA Conversion - CodeWars Kata](https://www.codewars.com/kata/5556282156230d0e5e000089/train/java)
   - [DNA to RNA Conversion - Minha solução](https://gist.github.com/LucasHenrique-dev/80f7092699e99e7292db360fae478828)
 
-## Dia 42: 17 Agosto, 2022
+## Dia 42: 17 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -407,7 +407,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Array plus array - CodeWars Kata](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/java)
   - [Array plus array - Minha solução](https://gist.github.com/LucasHenrique-dev/1059c8a2188e7a85f4b44029c099dd58)
 
-## Dia 43: 18 Agosto, 2022
+## Dia 43: 18 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, JavaScript.
 
@@ -417,7 +417,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Job Matching #1 - CodeWars Kata](https://www.codewars.com/kata/56c22c5ae8b139416c00175d/train/javascript)
   - [Job Matching #1 - Minha solução](https://gist.github.com/LucasHenrique-dev/26023b4c68e51b4b858d6c0bb988b088)
 
-## Dia 44: 19 Agosto, 2022
+## Dia 44: 19 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -427,7 +427,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Switcheroo - CodeWars Kata](https://www.codewars.com/kata/57f759bb664021a30300007d/train/java)
   - [Switcheroo - Minha solução](https://gist.github.com/LucasHenrique-dev/dace33bf2fbe4a834a941491a65ec3fd)
 
-## Dia 45: 20 Agosto, 2022
+## Dia 45: 20 de Agosto, 2022
 
 **Progresso:** Roda da Sorte, HTML + CSS + Js.
 
@@ -435,7 +435,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 
 **Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
 
-## Dia 46: 21 Agosto, 2022
+## Dia 46: 21 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -445,7 +445,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Two Sum - CodeWars Kata](https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java)
   - [Two Sum - Minha solução](https://gist.github.com/LucasHenrique-dev/774e21f793ec87e82d02ca0033ebb76b)
 
-## Dia 47: 22 Agosto, 2022
+## Dia 47: 22 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -455,7 +455,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Take a Ten Minutes Walk - CodeWars Kata](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/java)
   - [Take a Ten Minutes Walk - Minha solução](https://gist.github.com/LucasHenrique-dev/5d7f83822269a75b3ab38e1c09669245)
 
-## Dia 48: 23 Agosto, 2022
+## Dia 48: 23 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -465,7 +465,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Build Tower - CodeWars Kata](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/java)
   - [Build Tower - Minha solução](https://gist.github.com/LucasHenrique-dev/6c22aeaa0f3df9bedc141824687f5e23)
 
-## Dia 49: 24 Agosto, 2022
+## Dia 49: 24 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -477,7 +477,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Kadane's Algorithm](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
   - [Algoritmo de Kadane. Subarray Contíguo de Soma Máxima. Questão de Entrevista.](https://www.youtube.com/watch?v=UncRSviH-cY)
 
-## Dia 50: 25 Agosto, 2022
+## Dia 50: 25 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -490,7 +490,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Opposites Attract - Minha solução](https://gist.github.com/LucasHenrique-dev/b7557565505cc88b2b922d41b57798f4)
   - [CodingBat](https://codingbat.com/java)
 
-## Dia 51: 26 Agosto, 2022
+## Dia 51: 26 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -500,7 +500,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Count the smiley faces! - CodeWars Kata](https://www.codewars.com/kata/583203e6eb35d7980400002a/train/java)
   - [Count the smiley faces! - Minha solução](https://gist.github.com/LucasHenrique-dev/63aa3ba8e8228418fbdbe29ae0b1fb53)
 
-## Dia 52: 27 Agosto, 2022
+## Dia 52: 27 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -510,7 +510,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Reversed sequence - CodeWars Kata](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/java)
   - [Reversed sequence - Minha solução](https://gist.github.com/LucasHenrique-dev/bffacdcf9e3074e532aaeb8e67c9c38d)
 
-## Dia 53: 28 Agosto, 2022
+## Dia 53: 28 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -520,7 +520,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Convert a String to a Number! - CodeWars Kata](https://www.codewars.com/kata/544675c6f971f7399a000e79/train/java)
   - [Convert a String to a Number! - Minha solução](https://gist.github.com/LucasHenrique-dev/84a2b16b690c94810176928d038b95cc)
 
-## Dia 54: 29 Agosto, 2022
+## Dia 54: 29 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -530,7 +530,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Is this a triangle? - CodeWars Kata](https://www.codewars.com/kata/56606694ec01347ce800001b/train/java)
   - [Is this a triangle? - Minha solução](https://gist.github.com/LucasHenrique-dev/8638398cc0500a549277edef47564f72)
 
-## Dia 55: 30 Agosto, 2022
+## Dia 55: 30 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -540,7 +540,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Highest Scoring Word - CodeWars Kata](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/java)
   - [Highest Scoring Word - Minha solução](https://gist.github.com/LucasHenrique-dev/356b40a93866a92de7703b9d47766672)
 
-## Dia 56: 31 Agosto, 2022
+## Dia 56: 31 de Agosto, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -550,7 +550,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Rock Paper Scissors! - CodeWars Kata](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/java)
   - [Rock Paper Scissors! - Minha solução](https://gist.github.com/LucasHenrique-dev/98d08da0ae9ef4e73178b15d9edfe88f)
 
-## Dia 57: 01 Setembro, 2022
+## Dia 57: 01 de Setembro, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
@@ -560,7 +560,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Area or Perimeter - CodeWars Kata](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/train/java)
   - [Area or Perimeter - Minha solução](https://gist.github.com/LucasHenrique-dev/be4f43d0866d852ab1f69c0b75a14602)
 
-## Dia 58: 02 Setembro, 2022
+## Dia 58: 02 de Setembro, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
