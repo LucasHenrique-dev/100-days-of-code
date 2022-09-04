@@ -6,6 +6,7 @@
 - [Registro dia 30](#dia-30-05-agosto-2022)
 - [Registro dia 40](#dia-40-15-agosto-2022)
 - [Registro dia 50](#dia-50-25-agosto-2022)
+- [Registro dia 60](#dia-60-04-Setembro-2022)
 
 ## Dia 1: 07 de Julho, 2022
 
@@ -574,5 +575,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Progresso:** Roda da Sorte, HTML e CSS.
 
 **Experiência:** Realizei alguns ajustes no CSS da roda e adicionei algumas opções de sorteio que pretendo usar para fins de estudo pessoais. Também identifiquei mais bugs na aplicação 😢.
+
+**Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
+
+## Dia 60: 04 de Setembro, 2022
+
+**Progresso:** Roda da Sorte, HTML e CSS.
+
+**Experiência:** Trabalhei um poco da responsividade do sistema (não é uma das mais robustas, apenas tive o cuidado de não deixar o sistema "inutilizável"). Além disso, implementei algumas funcionalidades como bloquear novas jogadas enquanto alguma estiver em curso, e para isso utilizei `Pointer-events`, um estilo que existe no CSS que me permite desabilitar ou ativar eventos relacionados ao cursor. Por fim, e talvez mais importante, resolvi os bugs que tinha conhecimento e a aplicação está funcionando "perfeitamente" (se existe outros bugs, eu desconheço rsrs)!!! 🥳🎊🎊
 
 **Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
