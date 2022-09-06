@@ -585,3 +585,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Experiência:** Trabalhei um poco da responsividade do sistema (não é uma das mais robustas, apenas tive o cuidado de não deixar o sistema "inutilizável"). Além disso, implementei algumas funcionalidades como bloquear novas jogadas enquanto alguma estiver em curso, e para isso utilizei `Pointer-events`, um estilo que existe no CSS que me permite desabilitar ou ativar eventos relacionados ao cursor. Por fim, e talvez mais importante, resolvi os bugs que tinha conhecimento e a aplicação está funcionando "perfeitamente" (se existe outros bugs, eu desconheço rsrs)!!! 🥳🎊🎊
 
 **Link(s) para o trabalho:** [Roda da Sorte](https://lucashenrique-dev.github.io/app-ideas/projects/Dificuldades/Intermediario/RodaDaSorte/index.html)
+
+## Dia 61: 05 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Testing 1-2-3" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 2 - epsódio 1 🎥.
+
+**Link(s) para o trabalho:**
+  - [Testing 1-2-3 - CodeWars Kata](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/train/java)
+  - [Testing 1-2-3 - Minha solução](https://gist.github.com/LucasHenrique-dev/69469d79c6aa1acf5fa04c10e2477763)
