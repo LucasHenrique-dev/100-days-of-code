@@ -605,3 +605,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Split Strings - CodeWars Kata](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/java)
   - [Split Strings - Minha solução](https://gist.github.com/LucasHenrique-dev/9f668a928bf27ab1c71a5d46027a19a4)
+
+## Dia 63: 07 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Calculate average" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 2 - epsódio 3 🎥.
+
+**Link(s) para o trabalho:**
+  - [Calculate average - CodeWars Kata](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/java)
+  - [Calculate average - Minha solução](https://gist.github.com/LucasHenrique-dev/d37255a9facc1a10b29c45058736c843)
