@@ -625,3 +625,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Reverse words - CodeWars Kata](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/java)
   - [Reverse words - Minha solução](https://gist.github.com/LucasHenrique-dev/949116452e31d853a7bb39d32ed4d171)
+
+## Dia 65: 09 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Regex validate PIN code" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 2 - epsódio 5 🎥.
+
+**Link(s) para o trabalho:**
+  - [Regex validate PIN code - CodeWars Kata](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/java)
+  - [Regex validate PIN code - Minha solução](https://gist.github.com/LucasHenrique-dev/83a48525272a53d84f2eb1c7b35ea2b9)
