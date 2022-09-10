@@ -635,3 +635,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Regex validate PIN code - CodeWars Kata](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/java)
   - [Regex validate PIN code - Minha solução](https://gist.github.com/LucasHenrique-dev/83a48525272a53d84f2eb1c7b35ea2b9)
+
+## Dia 66: 10 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Equal Sides Of An Array" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 2 - epsódio 6 🎥.
+
+**Link(s) para o trabalho:**
+  - [Equal Sides Of An Array - CodeWars Kata](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/java)
+  - [Equal Sides Of An Array - Minha solução](https://gist.github.com/LucasHenrique-dev/b244cb7635ef67292bade1b9ae9d127f)
