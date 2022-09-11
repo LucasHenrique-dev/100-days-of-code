@@ -645,3 +645,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Equal Sides Of An Array - CodeWars Kata](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/java)
   - [Equal Sides Of An Array - Minha solução](https://gist.github.com/LucasHenrique-dev/b244cb7635ef67292bade1b9ae9d127f)
+
+## Dia 67: 11 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) 'Exclusive "or" (xor) Logical Operator' do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 2 - epsódio 7 🎥.
+
+**Link(s) para o trabalho:**
+  - [Exclusive "or" (xor) Logical Operator - CodeWars Kata](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c/train/java)
+  - [Exclusive "or" (xor) Logical Operator - Minha solução](https://gist.github.com/LucasHenrique-dev/0fcee3d7962ee2eaf09e5b3e1e0f1c46)
