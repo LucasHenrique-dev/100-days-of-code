@@ -655,3 +655,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Exclusive "or" (xor) Logical Operator - CodeWars Kata](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c/train/java)
   - [Exclusive "or" (xor) Logical Operator - Minha solução](https://gist.github.com/LucasHenrique-dev/0fcee3d7962ee2eaf09e5b3e1e0f1c46)
+
+## Dia 68: 12 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Your order, please" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 2 - epsódio 8 🎥.
+
+**Link(s) para o trabalho:**
+  - [Your order, please - CodeWars Kata](https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/java)
+  - [Your order, please - Minha solução](https://gist.github.com/LucasHenrique-dev/bc03cbd0c6f3ca0ca7b33e4bc7769317)
