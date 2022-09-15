@@ -680,18 +680,18 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 
 **Progresso:** Desafio CodeWars, Java.
 
-**Experiência:** Resolvi o Kata (problema de programação) "Write Number in Expanded Form" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 2 - epsódio 10 🎥.
+**Experiência:** Resolvi o Kata (problema de programação) "Vowel Count" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 2 - epsódio 10 🎥.
 
 **Link(s) para o trabalho:**
-  - [Write Number in Expanded Form - CodeWars Kata](https://www.codewars.com/kata/5842df8ccbd22792a4000245/train/java)
-  - [Write Number in Expanded Form - Minha solução](https://gist.github.com/LucasHenrique-dev/1f3f29ae90642cb623dc7878e2a25995)
+  - [Vowel Count - CodeWars Kata](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/java)
+  - [Vowel Count - Minha solução](https://gist.github.com/LucasHenrique-dev/a8e6dc826d2869b3ed89eb3b4d1e6de3)
 
 ## Dia 71: 15 de Setembro, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
-**Experiência:** Resolvi o Kata (problema de programação) "Vowel Count" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 2 - epsódio 11 🎥.
+**Experiência:** Resolvi o Kata (problema de programação) "The highest profit wins!" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 2 - epsódio 11 🎥.
 
 **Link(s) para o trabalho:**
-  - [Vowel Count - CodeWars Kata](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/java)
-  - [Vowel Count - Minha solução](https://gist.github.com/LucasHenrique-dev/a8e6dc826d2869b3ed89eb3b4d1e6de3)
+  - [The highest profit wins! - CodeWars Kata](https://www.codewars.com/kata/559590633066759614000063/train/java)
+  - [The highest profit wins! - Minha solução](https://gist.github.com/LucasHenrique-dev/57fc182d849f5848ee0968d9f31efd74)
