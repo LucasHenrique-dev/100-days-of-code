@@ -695,3 +695,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [The highest profit wins! - CodeWars Kata](https://www.codewars.com/kata/559590633066759614000063/train/java)
   - [The highest profit wins! - Minha solução](https://gist.github.com/LucasHenrique-dev/57fc182d849f5848ee0968d9f31efd74)
+
+## Dia 72: 16 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Persistent Bugger" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 2 - epsódio 12 🎥.
+
+**Link(s) para o trabalho:**
+  - [Persistent Bugger - CodeWars Kata](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/java)
+  - [Persistent Bugger - Minha solução](https://gist.github.com/LucasHenrique-dev/5584ea9c0405dfaa42079106d8f154ed)
