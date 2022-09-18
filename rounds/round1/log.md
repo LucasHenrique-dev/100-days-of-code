@@ -715,3 +715,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Data Reverse - CodeWars Kata](https://www.codewars.com/kata/569d488d61b812a0f7000015/train/java)
   - [Data Reverse - Minha solução](https://gist.github.com/LucasHenrique-dev/8bfba1a3412fb378d2b75e91e0ecb945)
+
+## Dia 74: 18 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Refiz o Kata (problema de programação) "Data Reverse" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Desta vez utilizei uma técnica mais sofisticada, usando `Streams` e `StringBuilder`. Vale uma menção à solução usando `System.arraycopy()`, o qual deixa a resolução do problema bem mais curta e legível (não foi minha a resolução, mas sim de um dos usuários da plataforma).
+
+**Link(s) para o trabalho:**
+  - [Data Reverse - CodeWars Kata](https://www.codewars.com/kata/569d488d61b812a0f7000015/train/java)
+  - [Data Reverse - Minha solução](https://gist.github.com/LucasHenrique-dev/8bfba1a3412fb378d2b75e91e0ecb945)
