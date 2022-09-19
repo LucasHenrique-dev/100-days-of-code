@@ -725,3 +725,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Data Reverse - CodeWars Kata](https://www.codewars.com/kata/569d488d61b812a0f7000015/train/java)
   - [Data Reverse - Minha solução](https://gist.github.com/LucasHenrique-dev/8bfba1a3412fb378d2b75e91e0ecb945)
+
+## Dia 75: 19 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Refiz o Kata (problema de programação) "Square Every Digit" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 3 - epsódio 1 🎥.
+
+**Link(s) para o trabalho:**
+  - [Square Every Digit - CodeWars Kata](https://www.codewars.com/kata/546e2562b03326a88e000020/train/java)
+  - [Square Every Digit - Minha solução](https://gist.github.com/LucasHenrique-dev/1ea5aee07fc514e50fb8784c22a078c3)
