@@ -735,3 +735,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Square Every Digit - CodeWars Kata](https://www.codewars.com/kata/546e2562b03326a88e000020/train/java)
   - [Square Every Digit - Minha solução](https://gist.github.com/LucasHenrique-dev/1ea5aee07fc514e50fb8784c22a078c3)
+
+## Dia 76: 20 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Refiz o Kata (problema de programação) "Stanton measure" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 3 - epsódio 2 🎥.
+
+**Link(s) para o trabalho:**
+  - [Stanton measure - CodeWars Kata](https://www.codewars.com/kata/59a1cdde9f922b83ee00003b/train/java)
+  - [Stanton measure - Minha solução](https://gist.github.com/LucasHenrique-dev/763f092d35130287c43d927e21716413)
