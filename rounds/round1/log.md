@@ -745,3 +745,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Stanton measure - CodeWars Kata](https://www.codewars.com/kata/59a1cdde9f922b83ee00003b/train/java)
   - [Stanton measure - Minha solução](https://gist.github.com/LucasHenrique-dev/763f092d35130287c43d927e21716413)
+
+## Dia 77: 21 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Refiz o Kata (problema de programação) "Tidy Number (Special Numbers Series #9)" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 3 - epsódio 3 🎥.
+
+**Link(s) para o trabalho:**
+  - [Tidy Number (Special Numbers Series #9) - CodeWars Kata](https://www.codewars.com/kata/5a87449ab1710171300000fd/train/java)
+  - [Tidy Number (Special Numbers Series #9) - Minha solução](https://gist.github.com/LucasHenrique-dev/6bf12d296e9359773cb3c6c7763b3c28)
