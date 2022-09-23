@@ -730,7 +730,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 
 **Progresso:** Desafio CodeWars, Java.
 
-**Experiência:** Refiz o Kata (problema de programação) "Square Every Digit" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 3 - epsódio 1 🎥.
+**Experiência:** Resolvi o Kata (problema de programação) "Square Every Digit" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 3 - epsódio 1 🎥.
 
 **Link(s) para o trabalho:**
   - [Square Every Digit - CodeWars Kata](https://www.codewars.com/kata/546e2562b03326a88e000020/train/java)
@@ -740,7 +740,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 
 **Progresso:** Desafio CodeWars, Java.
 
-**Experiência:** Refiz o Kata (problema de programação) "Stanton measure" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 3 - epsódio 2 🎥.
+**Experiência:** Resolvi o Kata (problema de programação) "Stanton measure" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 3 - epsódio 2 🎥.
 
 **Link(s) para o trabalho:**
   - [Stanton measure - CodeWars Kata](https://www.codewars.com/kata/59a1cdde9f922b83ee00003b/train/java)
@@ -750,8 +750,18 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 
 **Progresso:** Desafio CodeWars, Java.
 
-**Experiência:** Refiz o Kata (problema de programação) "Tidy Number (Special Numbers Series #9)" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 3 - epsódio 3 🎥.
+**Experiência:** Resolvi o Kata (problema de programação) "Tidy Number (Special Numbers Series #9)" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 3 - epsódio 3 🎥.
 
 **Link(s) para o trabalho:**
   - [Tidy Number (Special Numbers Series #9) - CodeWars Kata](https://www.codewars.com/kata/5a87449ab1710171300000fd/train/java)
   - [Tidy Number (Special Numbers Series #9) - Minha solução](https://gist.github.com/LucasHenrique-dev/6bf12d296e9359773cb3c6c7763b3c28)
+
+## Dia 78: 22 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Mumbling" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 3 - epsódio 4 🎥.
+
+**Link(s) para o trabalho:**
+  - [Mumbling - CodeWars Kata](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/java)
+  - [Mumbling - Minha solução](https://gist.github.com/LucasHenrique-dev/38736590709b788270180c4cdc1321ba)
