@@ -765,3 +765,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Mumbling - CodeWars Kata](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/java)
   - [Mumbling - Minha solução](https://gist.github.com/LucasHenrique-dev/38736590709b788270180c4cdc1321ba)
+
+## Dia 79: 23 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Find the unique number" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercício simples, porém é uma questão bastante consolidada (busca do valor único dentro de alguma coleção). Para esta minha resolução usei o método `filter()` das streams e operador ternário.
+
+**Link(s) para o trabalho:**
+  - [Find the unique number - CodeWars Kata](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/java)
+  - [Find the unique number - Minha solução](https://gist.github.com/LucasHenrique-dev/e17be59d075a5fdd2b6ce4b5b43eb8a7)
