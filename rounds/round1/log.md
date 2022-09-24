@@ -775,3 +775,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Find the unique number - CodeWars Kata](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/java)
   - [Find the unique number - Minha solução](https://gist.github.com/LucasHenrique-dev/e17be59d075a5fdd2b6ce4b5b43eb8a7)
+
+## Dia 80: 24 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Maximum Product" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 4 - epsódio 1 🎥.
+
+**Link(s) para o trabalho:**
+  - [Maximum Product - CodeWars Kata](https://www.codewars.com/kata/5a4138acf28b82aa43000117/train/java)
+  - [Maximum Product - Minha solução](https://gist.github.com/LucasHenrique-dev/843c7aa3cdbc3c73af206c21a78ea007)
