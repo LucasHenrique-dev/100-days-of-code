@@ -785,3 +785,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Maximum Product - CodeWars Kata](https://www.codewars.com/kata/5a4138acf28b82aa43000117/train/java)
   - [Maximum Product - Minha solução](https://gist.github.com/LucasHenrique-dev/843c7aa3cdbc3c73af206c21a78ea007)
+
+## Dia 81: 25 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "How good are you really?" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 4 - epsódio 2 🎥.
+
+**Link(s) para o trabalho:**
+  - [How good are you really? - CodeWars Kata](https://www.codewars.com/kata/5601409514fc93442500010b/train/java)
+  - [How good are you really? - Minha solução](https://gist.github.com/LucasHenrique-dev/d1cc9e61c525e16758871d888c1f05dd)
