@@ -805,3 +805,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [If you can't sleep, just count sheep!! - CodeWars Kata](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/train/java)
   - [If you can't sleep, just count sheep!! - Minha solução](https://gist.github.com/LucasHenrique-dev/eec710a7b777519f31778b15c5cf2f47)
+
+## Dia 83: 27 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Simple multiplication" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 4 - epsódio 4 🎥.
+
+**Link(s) para o trabalho:**
+  - [Simple multiplication - CodeWars Kata](https://www.codewars.com/kata/583710ccaa6717322c000105/train/java)
+  - [Simple multiplication - Minha solução](https://gist.github.com/LucasHenrique-dev/9828806ed3e73b9eaee097285d09b0d2)
