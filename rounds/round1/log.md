@@ -825,3 +825,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Keep Hydrated! - CodeWars Kata](https://www.codewars.com/kata/582cb0224e56e068d800003c/train/java)
   - [Keep Hydrated! - Minha solução](https://gist.github.com/LucasHenrique-dev/114eb95fc57c400a5b0dadfe54f13827)
+
+## Dia 85: 29 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Invert Array Middle" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercício interessante envolvendo Arrays, não utilizei nenhuma estrutura complexa ou que eu já não tivesse conhecimento, na verdade só bastou usar for's encadeados. O detalhe especial vai por conta do uso da lógica para resolver a questão.
+
+**Link(s) para o trabalho:**
+  - [Invert Array Middle - CodeWars Kata](https://www.codewars.com/kata/5a6c4086373c2e2a07000075/train/java)
+  - [Invert Array Middle - Minha solução](https://gist.github.com/LucasHenrique-dev/0174010fe2aff8b076b7fff598661eb0)
