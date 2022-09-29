@@ -815,3 +815,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Simple multiplication - CodeWars Kata](https://www.codewars.com/kata/583710ccaa6717322c000105/train/java)
   - [Simple multiplication - Minha solução](https://gist.github.com/LucasHenrique-dev/9828806ed3e73b9eaee097285d09b0d2)
+
+## Dia 84: 28 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Keep Hydrated!" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 4 - epsódio 5 🎥.
+
+**Link(s) para o trabalho:**
+  - [Keep Hydrated! - CodeWars Kata](https://www.codewars.com/kata/582cb0224e56e068d800003c/train/java)
+  - [Keep Hydrated! - Minha solução](https://gist.github.com/LucasHenrique-dev/114eb95fc57c400a5b0dadfe54f13827)
