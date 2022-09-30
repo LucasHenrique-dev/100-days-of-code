@@ -835,3 +835,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Invert Array Middle - CodeWars Kata](https://www.codewars.com/kata/5a6c4086373c2e2a07000075/train/java)
   - [Invert Array Middle - Minha solução](https://gist.github.com/LucasHenrique-dev/0174010fe2aff8b076b7fff598661eb0)
+
+## Dia 86: 30 de Setembro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Product of consecutive Fib numbers" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Me inspirei nas questões que resolvia no site do [Project Euler](https://projecteuler.net) que possui um foco forte na área de matemática. Usei também classes `Stream`, `ArrayList` e retornei as respostas através de um operadpr ternário, apesar de que para resolver a questão bastava apenas 1 for 😅.
+
+**Link(s) para o trabalho:**
+  - [Product of consecutive Fib numbers - CodeWars Kata](https://www.codewars.com/kata/5541f58a944b85ce6d00006a/train/java)
+  - [Product of consecutive Fib numbers - Minha solução](https://gist.github.com/LucasHenrique-dev/1fc1b5e33d3acee89afa2e4dd927e78a)
