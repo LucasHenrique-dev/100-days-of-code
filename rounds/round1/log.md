@@ -7,6 +7,8 @@
 - [Registro dia 40](#dia-40-15-de-agosto-2022)
 - [Registro dia 50](#dia-50-25-de-agosto-2022)
 - [Registro dia 60](#dia-60-04-de-setembro-2022)
+- [Registro dia 70](#dia-70-14-de-setembro-2022)
+- [Registro dia 80](#dia-80-24-de-setembro-2022)
 
 ## Dia 1: 07 de Julho, 2022
 
@@ -845,3 +847,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Product of consecutive Fib numbers - CodeWars Kata](https://www.codewars.com/kata/5541f58a944b85ce6d00006a/train/java)
   - [Product of consecutive Fib numbers - Minha solução](https://gist.github.com/LucasHenrique-dev/1fc1b5e33d3acee89afa2e4dd927e78a)
+
+## Dia 87: 01 de Outubro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Create Phone Number" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 5 - epsódio 1 🎥.
+
+**Link(s) para o trabalho:**
+  - [Create Phone Number - CodeWars Kata](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/java)
+  - [Create Phone Number - Minha solução](https://gist.github.com/LucasHenrique-dev/968aae3146057995255d8cc6a7e4b500)
