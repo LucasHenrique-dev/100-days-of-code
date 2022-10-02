@@ -857,3 +857,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Create Phone Number - CodeWars Kata](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/java)
   - [Create Phone Number - Minha solução](https://gist.github.com/LucasHenrique-dev/968aae3146057995255d8cc6a7e4b500)
+
+## Dia 87: 01 de Outubro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Who likes it?" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 5 - epsódio 2 🎥.
+
+**Link(s) para o trabalho:**
+  - [Who likes it? - CodeWars Kata](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java)
+  - [Who likes it? - Minha solução](https://gist.github.com/LucasHenrique-dev/188f8157bffdd2eaeb39d2bd361157f8)
