@@ -858,7 +858,7 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
   - [Create Phone Number - CodeWars Kata](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/java)
   - [Create Phone Number - Minha solução](https://gist.github.com/LucasHenrique-dev/968aae3146057995255d8cc6a7e4b500)
 
-## Dia 87: 01 de Outubro, 2022
+## Dia 88: 02 de Outubro, 2022
 
 **Progresso:** Desafio CodeWars, Java.
 
