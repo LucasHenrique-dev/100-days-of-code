@@ -867,3 +867,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Who likes it? - CodeWars Kata](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/java)
   - [Who likes it? - Minha solução](https://gist.github.com/LucasHenrique-dev/188f8157bffdd2eaeb39d2bd361157f8)
+
+## Dia 89: 03 de Outubro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Double Char" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 5 - epsódio 3 🎥.
+
+**Link(s) para o trabalho:**
+  - [Double Char - CodeWars Kata](https://www.codewars.com/kata/56b1f01c247c01db92000076/train/java)
+  - [Double Char - Minha solução](https://gist.github.com/LucasHenrique-dev/91a5cbe2f1abb86b2a6f4e831cac2657)
