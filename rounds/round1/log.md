@@ -877,3 +877,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Double Char - CodeWars Kata](https://www.codewars.com/kata/56b1f01c247c01db92000076/train/java)
   - [Double Char - Minha solução](https://gist.github.com/LucasHenrique-dev/91a5cbe2f1abb86b2a6f4e831cac2657)
+
+## Dia 90: 04 de Outubro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Sum of Digits / Digital Root" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 5 - epsódio 4 🎥.
+
+**Link(s) para o trabalho:**
+  - [Sum of Digits / Digital Root - CodeWars Kata](https://www.codewars.com/kata/541c8630095125aba6000c00/train/java)
+  - [Sum of Digits / Digital Root - Minha solução](https://gist.github.com/LucasHenrique-dev/053f258516d0ecf9ff053362920a3b1a)
