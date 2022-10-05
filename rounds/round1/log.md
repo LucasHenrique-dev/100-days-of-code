@@ -9,6 +9,7 @@
 - [Registro dia 60](#dia-60-04-de-setembro-2022)
 - [Registro dia 70](#dia-70-14-de-setembro-2022)
 - [Registro dia 80](#dia-80-24-de-setembro-2022)
+- [Registro dia 90](#dia-90-04-de-outubro-2022)
 
 ## Dia 1: 07 de Julho, 2022
 
