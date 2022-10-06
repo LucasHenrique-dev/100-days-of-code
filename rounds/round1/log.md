@@ -898,3 +898,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Returning Strings - CodeWars Kata](https://www.codewars.com/kata/55a70521798b14d4750000a4/train/java)
   - [Returning Strings - Minha solução](https://gist.github.com/LucasHenrique-dev/b9197fc9b432e18ba8d4830a80146f21)
+
+## Dia 92: 06 de Outubro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Count the divisors of a number" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 5 - epsódio 6 🎥.
+
+**Link(s) para o trabalho:**
+  - [Count the divisors of a number - CodeWars Kata](https://www.codewars.com/kata/542c0f198e077084c0000c2e/train/java)
+  - [Count the divisors of a number - Minha solução](https://gist.github.com/LucasHenrique-dev/93e581cc0f2d3dee2857ea9194ee1015)
