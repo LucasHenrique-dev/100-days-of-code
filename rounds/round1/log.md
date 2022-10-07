@@ -908,3 +908,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Count the divisors of a number - CodeWars Kata](https://www.codewars.com/kata/542c0f198e077084c0000c2e/train/java)
   - [Count the divisors of a number - Minha solução](https://gist.github.com/LucasHenrique-dev/93e581cc0f2d3dee2857ea9194ee1015)
+
+## Dia 93: 07 de Outubro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Grasshopper - Summation" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 5 - epsódio 7 🎥.
+
+**Link(s) para o trabalho:**
+  - [Grasshopper - Summation - CodeWars Kata](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/java)
+  - [Grasshopper - Summation - Minha solução](https://gist.github.com/LucasHenrique-dev/ff6eef9a84e72ef871c3eff307839ba7)
