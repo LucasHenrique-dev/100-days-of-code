@@ -918,3 +918,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Grasshopper - Summation - CodeWars Kata](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/java)
   - [Grasshopper - Summation - Minha solução](https://gist.github.com/LucasHenrique-dev/ff6eef9a84e72ef871c3eff307839ba7)
+
+## Dia 94: 08 de Outubro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Powers of 2" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 5 - epsódio 8 🎥.
+
+**Link(s) para o trabalho:**
+  - [Powers of 2 - CodeWars Kata](https://www.codewars.com/kata/57a083a57cb1f31db7000028/train/java)
+  - [Powers of 2 - Minha solução](https://gist.github.com/LucasHenrique-dev/b1b6ce49ed0bf7c7f0c8e11c86a85335)
