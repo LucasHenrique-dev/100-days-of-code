@@ -928,3 +928,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Powers of 2 - CodeWars Kata](https://www.codewars.com/kata/57a083a57cb1f31db7000028/train/java)
   - [Powers of 2 - Minha solução](https://gist.github.com/LucasHenrique-dev/b1b6ce49ed0bf7c7f0c8e11c86a85335)
+
+## Dia 95: 09 de Outubro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Pair of gloves" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 5 - epsódio 9 🎥.
+
+**Link(s) para o trabalho:**
+  - [Pair of gloves - CodeWars Kata](https://www.codewars.com/kata/58235a167a8cb37e1a0000db/train/java)
+  - [Pair of gloves - Minha solução](https://gist.github.com/LucasHenrique-dev/d6dabd623e8259445122943d79112bf0)
