@@ -938,3 +938,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Pair of gloves - CodeWars Kata](https://www.codewars.com/kata/58235a167a8cb37e1a0000db/train/java)
   - [Pair of gloves - Minha solução](https://gist.github.com/LucasHenrique-dev/d6dabd623e8259445122943d79112bf0)
+
+## Dia 96: 10 de Outubro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Sort the odd" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 5 - epsódio 10 🎥.
+
+**Link(s) para o trabalho:**
+  - [Sort the odd - CodeWars Kata](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/java)
+  - [Sort the odd - Minha solução](https://gist.github.com/LucasHenrique-dev/3533c87103f3e63aa6d381c859f63116)
