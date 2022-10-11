@@ -948,3 +948,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Sort the odd - CodeWars Kata](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/java)
   - [Sort the odd - Minha solução](https://gist.github.com/LucasHenrique-dev/3533c87103f3e63aa6d381c859f63116)
+
+## Dia 97: 11 de Outubro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "CamelCase Method" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 5 - epsódio 11 🎥.
+
+**Link(s) para o trabalho:**
+  - [CamelCase Method - CodeWars Kata](https://www.codewars.com/kata/587731fda577b3d1b0001196/train/java)
+  - [CamelCase Method - Minha solução](https://gist.github.com/LucasHenrique-dev/bc5074026beb15917a3a5a6fd3d90205)
