@@ -958,3 +958,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [CamelCase Method - CodeWars Kata](https://www.codewars.com/kata/587731fda577b3d1b0001196/train/java)
   - [CamelCase Method - Minha solução](https://gist.github.com/LucasHenrique-dev/bc5074026beb15917a3a5a6fd3d90205)
+
+## Dia 98: 12 de Outubro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Scramblies" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 5 - epsódio 12 🎥.
+
+**Link(s) para o trabalho:**
+  - [Scramblies - CodeWars Kata](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/java)
+  - [Scramblies - Minha solução](https://gist.github.com/LucasHenrique-dev/31739e26841311bbcb1189e66b125b79)
