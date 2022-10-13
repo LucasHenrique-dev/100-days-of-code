@@ -968,3 +968,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Scramblies - CodeWars Kata](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/java)
   - [Scramblies - Minha solução](https://gist.github.com/LucasHenrique-dev/31739e26841311bbcb1189e66b125b79)
+
+## Dia 99: 13 de Outubro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Counting Duplicates" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Exercícios simples e rápidos, Temporada 5 - epsódio 13 🎥.
+
+**Link(s) para o trabalho:**
+  - [Counting Duplicates - CodeWars Kata](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/java)
+  - [Counting Duplicates - Minha solução](https://gist.github.com/LucasHenrique-dev/ea790463bc82e71af6a42a6cee5413f0)
