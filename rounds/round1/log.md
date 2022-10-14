@@ -978,3 +978,13 @@ Estou anotando no dia posterior o progresso de ontem (02 de Agosto e 03 de Agost
 **Link(s) para o trabalho:**
   - [Counting Duplicates - CodeWars Kata](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/java)
   - [Counting Duplicates - Minha solução](https://gist.github.com/LucasHenrique-dev/ea790463bc82e71af6a42a6cee5413f0)
+
+## Dia 100: 14 de Outubro, 2022
+
+**Progresso:** Desafio CodeWars, Java.
+
+**Experiência:** Resolvi o Kata (problema de programação) "Detect Pangram" do site [CodeWars](https://www.codewars.com/dashboard) usando a linguagem Java. Com este exercício de hoje finalizo os 100 dias de código!! 🥳🥳. Uma jornada bastante longa e de bastante aprendizagem, estou muito feliz com o resultado e notado que de pouquinho em pouquinho podemos construir muito. Aprendi vários conceitos e revisei inúmeros outros ao longo desses 100 dias realizando projetos e resolvendo vários exercícios. Um exemplo disso foi a resolução da questão de hoje, utilizei um conceito que achei incrível, o qual aprendi no [dia 17](#dia-17-23-de-Julho-2022)! Também utilizei da Classe `Set`, um novidade nessa maratona dos 100 dias, mas uma estrutura que havia aprendido a um tempo atrás. Por fim, só tenho a agredecer ter tido a disposição para iniciar esta jornada, pois agora noto o quão distante estou avançando e que posso fazer ainda mais!
+
+**Link(s) para o trabalho:**
+  - [Detect Pangram - CodeWars Kata](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/java)
+  - [Detect Pangram - Minha solução](https://gist.github.com/LucasHenrique-dev/bd142a151b76074b3780e96e954a39c4)
